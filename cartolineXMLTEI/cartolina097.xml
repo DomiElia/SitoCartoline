@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-097">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Pittura - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>La Pittura</title>
+               <date when="1917/06/08"> 1917/06/08 </date>
+               <author>
+                  <persName ref="list.xml#AB"> A. Bertiglia </persName>
+               </author>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_097_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postmark">
+                              Due timbri circolari neri, MODENA FERROVIA
+                           </stamp>
+                           <stamp type="postage">
+                              Due francobolli di colore verde da 5 centesimi
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Giovannino</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a sinistra della parte superiore della
+                                        cartolina è presente un 97, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GC" instant="false" full="yes"> Giovanni Coliola </persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes"> Oliva Turtura </persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>La Pittura</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_097"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_097" type="fronte">
+         <graphic url="img-cartoline/7694-097F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_097" type="retro">
+         <graphic url="img-cartoline/7694-097R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s> La Pittura </s>
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> Proprietà artistica riservata - N. 1043 </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>La Pittura</head>
+               <figDesc> Due bambini rovesciano dell' inchiostro su di un cane
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Modena lì 8/6 - 917</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p type="retro">
+                     <lb/>            Sempre gli sguardi ed i pensieri <lb/>            rivolti là, verso la rosea nube degli<lb/>            ideali, in un cielo azzurro cristal - <lb/>            lino che non paventa la bufera,<lb/>            in una esaltazione di purezza<lb/>            in una tranquillità di moti. <lb/>            Un delizioso bacio e fine <gap reason="illegible"/>epibile<lb/>            mistero che unisce i nostri cuori. </p>
+                  <p type="fronte">
+                     <lb/>            Finisce la serie poco seria delle arti belle.<lb/>            Saluti alla mamma e a tutti. </p>
+               </div>
+               <closer>
+                  <lb/>
+                  <signed>
+                     <persName>
+                        <forename ref="Giovannino">Giovannino</forename>
+                     </persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Gent Sig.na<lb/>            Oliva Turtura <lb/>            Via Girolamo Rosfi 58 <lb/>            Ravenna</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext">
+                  <add>
+                     <num type="cardinal"> 97 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="sempre">
+                  <w type="form">Sempre</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">gli</w>
+               </seg>
+               <seg lemma="sguardo">
+                  <w type="form">sguardi</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">ed</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">i</w>
+               </seg>
+               <seg lemma="pensiero">
+                  <w type="form">pensieri</w>
+               </seg>
+               <seg lemma="rivolgere">
+                  <w type="form">rivolti</w>
+               </seg>
+               <seg lemma="là">
+                  <w type="form">là</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="verso">
+                  <w type="form">verso</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="roseo">
+                  <w type="form">rosea</w>
+               </seg>
+               <seg lemma="nube">
+                  <w type="form">nube</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">degli</w>
+               </seg>
+               <seg lemma="ideale">
+                  <w type="form">ideali</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">un</w>
+               </seg>
+               <seg lemma="cielo">
+                  <w type="form">cielo</w>
+               </seg>
+               <seg lemma="azzurro">
+                  <w type="form">azzurro</w>
+               </seg>
+               <seg lemma="cristal">
+                  <w type="form">cristal</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="lino">
+                  <w type="form">lino</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">non</w>
+               </seg>
+               <seg lemma="paventare">
+                  <w type="form">paventa</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="bufera">
+                  <w type="form">bufera</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">una</w>
+               </seg>
+               <seg lemma="esaltazione">
+                  <w type="form">esaltazione</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="purezza">
+                  <w type="form">purezza</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">una</w>
+               </seg>
+               <seg lemma="tranquillità">
+                  <w type="form">tranquillità</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="moto">
+                  <w type="form">moti</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">Un</w>
+               </seg>
+               <seg lemma="delizioso">
+                  <w type="form">delizioso</w>
+               </seg>
+               <seg lemma="bacio">
+                  <w type="form">bacio</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="fine">
+                  <w type="form">fine</w>
+               </seg>
+               <seg lemma="epibile">
+                  <w type="form">epibile</w>
+               </seg>
+               <seg lemma="mistero">
+                  <w type="form">mistero</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="unire">
+                  <w type="form">unisce</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">i</w>
+               </seg>
+               <seg lemma="nostro">
+                  <w type="form">nostri</w>
+               </seg>
+               <seg lemma="cuore">
+                  <w type="form">cuori</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="finire">
+                  <w type="form">Finisce</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="serie">
+                  <w type="form">serie</w>
+               </seg>
+               <seg lemma="poco">
+                  <w type="form">poco</w>
+               </seg>
+               <seg lemma="serio">
+                  <w type="form">seria</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">delle</w>
+               </seg>
+               <seg lemma="arte">
+                  <w type="form">arti</w>
+               </seg>
+               <seg lemma="bello">
+                  <w type="form">belle</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="saluto">
+                  <w type="form">Saluti</w>
+               </seg>
+               <seg lemma="al">
+                  <w type="form">alla</w>
+               </seg>
+               <seg lemma="mamma">
+                  <w type="form">mamma</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">a</w>
+               </seg>
+               <seg lemma="tutto">
+                  <w type="form">tutti</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

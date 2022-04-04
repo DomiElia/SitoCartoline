@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-012">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bambini per mano - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>Bambini per mano</title>
+               <date when="1916/10/04" instant="false">1916/10/04</date>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_012_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <!-- descrizione fisica dei timbri -->
+                           <stamp type="postmark"> 
+                                        Il timbro circolare è leggermente sovrapposto al francobollo ed è possibile leggere 'POSTA MILITARE'
+                                    </stamp>
+                           <!-- descrizione fisica del francobollo -->
+                           <stamp type="postage">
+                                         Francobollo di forma rettangolare colore rosso da 10 centesimi.
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Massimo</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a destra della parte superiore della
+                                        cartolina è presente un 12, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.sml#MB" instant="false" full="yes">Massimo Busolini</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#GC" instant="false" full="yes">Giovanni Coliola</persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>Bambini per mano</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_012"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_012" type="fronte">
+         <graphic url="img-cartoline/7694-012F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_012" type="retro">
+         <graphic url="img-cartoline/7694-012R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front/>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>Bambini per mano</head>
+               <figDesc>In primo piano quattro bambini che si tengono per mano e che reggono, nell'altra mano, un mazzo di fiori.
+                  </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Purgessimo 4-10.17</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb/>            Ricevi Afettuosi <lb/>            saluti </p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <s>
+                     <lb/>Da <lb/>
+                     <signed>
+                        <persName>
+                           <surname>Busolini</surname>
+                        </persName>
+                     </signed>
+                     <lb/>
+                     <signed>
+                        <persName>
+                           <forename ref="Massimo">Massimo</forename>
+                        </persName>
+                     </signed>
+                  </s>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Tenente<lb/>            Coliola Giovanni<lb/>            Via Monti<lb/>            N 4 <lb/>            Moena?</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab>
+                  <stamp type="postage">
+                     <mentioned rend="color(RED)">
+                        <orgName ref="list.xml#PI" instant="false" full="yes">Poste italiane</orgName>
+                        <hi>
+                           <num rend="double" type="cardinal" value="10">10</num>
+                                                                     centesimi
+                                          <num rend="double" type="cardinal" value="10">10</num>
+                        </hi>
+                     </mentioned>
+                  </stamp>
+               </ab>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 12 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="ricevere">
+                  <w type="form">Ricevi</w>
+               </seg>
+               <seg lemma="Affettuosi">
+                  <w type="form">Affettuosi</w>
+               </seg>
+               <seg lemma="saluto">
+                  <w type="form">saluti</w>
+               </seg>
+               <seg lemma="da">
+                  <w type="form">Da</w>
+               </seg>
+               <seg lemma="Busolini">
+                  <w type="form">Busolini</w>
+               </seg>
+               <seg lemma="massimo">
+                  <w type="form">Massimo</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

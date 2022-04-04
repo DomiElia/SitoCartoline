@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-096">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>La Scultura - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>La Scultura</title>
+               <date when="1917/06/06"> 1917/06/06 </date>
+               <author>
+                  <persName ref="list.xml#AB"> A. Bertiglia </persName>
+               </author>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_096_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postmark">
+                              Tre timbri circolari neri, MODENA FERROVIA, leggermente sbiaditi 
+                           </stamp>
+                           <stamp type="postage">
+                              Francobollo di colore rosso da 10 centesimi 
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Giovannino</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a destra della parte superiore della
+                                        cartolina è presente un 96, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GC" instant="false" full="yes"> Giovanni Coliola </persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes"> Oliva Turtura </persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>La Scultura</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_096"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_096" type="fronte">
+         <graphic url="img-cartoline/7694-096F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_096" type="retro">
+         <graphic url="img-cartoline/7694-096R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> La Scultura </s>
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> Proprietà artistica riservata - N 1040 </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>La Scultura</head>
+               <figDesc> Un bambino scolpisce una statua osservato da una bambina
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Modena, li 6/6-1917.</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb/>            Forse ti parrà una pasfione morbosa,<lb/>            forse, se gli eventi rimangono avversi <lb/>            parrà diventare.... è già il tormento <lb/>            lo affanno dell'animo e non cesfa<lb/>            e non muore. Ti parrà debolezza di <lb/>            spirito malato, un pensiero forse. persi-<lb/>            stente, indistruttibile, qual'è il mio <lb/>            per te? E come si dovrebbe amare?</p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <s>
+                     <lb/>
+                     <signed>
+                        <persName>
+                           <forename ref="Giovannino">Giovannino</forename>
+                        </persName>
+                     </signed>
+                  </s>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Gent.ma Sig.na <lb/>            Oliva Turtura <lb/>            Via Girolamo Rosfi 58 <lb/>            Ravenna</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext">
+                  <add>
+                     <num type="cardinal"> 96 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="forse">
+                  <w type="form">Forse</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">ti</w>
+               </seg>
+               <seg lemma="parere">
+                  <w type="form">parrà</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">una</w>
+               </seg>
+               <seg lemma="passione">
+                  <w type="form">passione</w>
+               </seg>
+               <seg lemma="morboso">
+                  <w type="form">morbosa</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="forse">
+                  <w type="form">forse</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="se">
+                  <w type="form">se</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">gli</w>
+               </seg>
+               <seg lemma="evento">
+                  <w type="form">eventi</w>
+               </seg>
+               <seg lemma="rimanere">
+                  <w type="form">rimangono</w>
+               </seg>
+               <seg lemma="avverso">
+                  <w type="form">avversi</w>
+               </seg>
+               <seg lemma="parere">
+                  <w type="form">parrà</w>
+               </seg>
+               <seg lemma="diventare">
+                  <w type="form">diventare</w>
+               </seg>
+               <seg lemma="......">
+                  <w type="form">......</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">è</w>
+               </seg>
+               <seg lemma="già">
+                  <w type="form">già</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="tormento">
+                  <w type="form">tormento</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">lo</w>
+               </seg>
+               <seg lemma="affanno">
+                  <w type="form">affanno</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">dell'</w>
+               </seg>
+               <seg lemma="animo">
+                  <w type="form">animo</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">non</w>
+               </seg>
+               <seg lemma="cessare">
+                  <w type="form">cessa</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">non</w>
+               </seg>
+               <seg lemma="morire">
+                  <w type="form">muore</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">Ti</w>
+               </seg>
+               <seg lemma="parere">
+                  <w type="form">parrà</w>
+               </seg>
+               <seg lemma="debolezza">
+                  <w type="form">debolezza</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="spirito">
+                  <w type="form">spirito</w>
+               </seg>
+               <seg lemma="malato">
+                  <w type="form">malato</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">un</w>
+               </seg>
+               <seg lemma="pensiero">
+                  <w type="form">pensiero</w>
+               </seg>
+               <seg lemma="forse">
+                  <w type="form">forse</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="persistente">
+                  <w type="form">persistente</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="indistruttibile">
+                  <w type="form">indistruttibile</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="qual'">
+                  <w type="form">qual'</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">è</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mio</w>
+               </seg>
+               <seg lemma="per">
+                  <w type="form">per</w>
+               </seg>
+               <seg lemma="te">
+                  <w type="form">te</w>
+               </seg>
+               <seg lemma="?">
+                  <w type="form">?</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">E</w>
+               </seg>
+               <seg lemma="come">
+                  <w type="form">come</w>
+               </seg>
+               <seg lemma="si">
+                  <w type="form">si</w>
+               </seg>
+               <seg lemma="dovere">
+                  <w type="form">dovrebbe</w>
+               </seg>
+               <seg lemma="amare">
+                  <w type="form">amare</w>
+               </seg>
+               <seg lemma="?">
+                  <w type="form">?</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-055">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Coppia di innamorati] - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>[Coppia di innamorati]</title>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_055_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postage">
+                              Francobollo di forma rettangolare di colore verde da 5 centesimi
+                           </stamp>
+                           <stamp type="postmark">
+                              Timbro circolare nero, leggermente sbiadito, del 13.1.17
+                           </stamp>
+                        </support>
+                        <condition>Mediocre</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di A.Orina</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a sinistra della parte superiore della
+                                        cartolina è presente un 55, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#AO" instant="false" full="yes">A.Orina</persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>[Coppia di innamorati]</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_055"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_055" type="fronte">
+         <graphic url="img-cartoline/7694-055F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_055" type="retro">
+         <graphic url="img-cartoline/7694-055R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s> Proprietà Artistica A.Scrocchi - Milano </s>
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> 2731-5 </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>[Coppia di innamorati]</head>
+               <figDesc> In primo piano una coppia di innamorati, su di uno sfondo di fiori. 
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline/>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb/>            Sebbene lontano<lb/>            desidero che mi abbia <lb/>            come presente!..... <lb/>            La mia triste <lb/>            fisionomia osi ogni ora<lb/>            rammentarle i bei <lb/>            giorni che io ho<lb/>            passato in gioia <lb/>            alla sua Gentilissima <lb/>            famiglia.<lb/>
+                     <gap reason="illegible"/> e viva<lb/>            l'Italia </p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <s>
+                     <lb/>
+                     <signed>
+                        <persName>
+                           <forename ref="A.">A.</forename>
+                        </persName>
+                     </signed>
+                     <signed>
+                        <persName>
+                           <surname>Orina</surname>
+                        </persName>
+                     </signed>
+                  </s>
+               </closer>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 55 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="sebbene">
+                  <w type="form">Sebbene</w>
+               </seg>
+               <seg lemma="lontano">
+                  <w type="form">lontano</w>
+               </seg>
+               <seg lemma="desiderare">
+                  <w type="form">desidero</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">abbia</w>
+               </seg>
+               <seg lemma="come">
+                  <w type="form">come</w>
+               </seg>
+               <seg lemma="presente">
+                  <w type="form">presente</w>
+               </seg>
+               <seg lemma="!">
+                  <w type="form">!</w>
+               </seg>
+               <seg lemma=".......">
+                  <w type="form">.......</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">La</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mia</w>
+               </seg>
+               <seg lemma="triste">
+                  <w type="form">triste</w>
+               </seg>
+               <seg lemma="fisionomia">
+                  <w type="form">fisionomia</w>
+               </seg>
+               <seg lemma="osare">
+                  <w type="form">osi</w>
+               </seg>
+               <seg lemma="ogni">
+                  <w type="form">ogni</w>
+               </seg>
+               <seg lemma="ora">
+                  <w type="form">ora</w>
+               </seg>
+               <seg lemma="rammentare">
+                  <w type="form">rammentar-</w>
+               </seg>
+               <seg lemma="le">
+                  <w type="form">le</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">i</w>
+               </seg>
+               <seg lemma="bello">
+                  <w type="form">bei</w>
+               </seg>
+               <seg lemma="giorno">
+                  <w type="form">giorni</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="io">
+                  <w type="form">io</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">ho</w>
+               </seg>
+               <seg lemma="passare">
+                  <w type="form">passato</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="gioia">
+                  <w type="form">gioia</w>
+               </seg>
+               <seg lemma="al">
+                  <w type="form">alla</w>
+               </seg>
+               <seg lemma="suo">
+                  <w type="form">sua</w>
+               </seg>
+               <seg lemma="Gentilissima">
+                  <w type="form">Gentilissima</w>
+               </seg>
+               <seg lemma="famiglia">
+                  <w type="form">famiglia</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="vivere">
+                  <w type="form">viva</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">l'</w>
+               </seg>
+               <seg lemma="Italia">
+                  <w type="form">Italia</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

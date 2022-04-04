@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-058">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Ritratto di donna] - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>[Ritratto di donna]</title>
+               <date when="1917/04/05"> 1917/04/05</date>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_058_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postage">
+                              Francobollo di forma rettangolare di colore verde da 5 centesimi
+                           </stamp>
+                           <stamp type="postmark">
+                              Timbro circolare nero, leggermente sovrapposto al francobollo, poco leggibile.
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Mario</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a sinistra della parte superiore della
+                                        cartolina è presente un 58, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#M" instant="false" full="yes">Mario</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes">Oliva Turtura</persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>[Ritratto di donna]</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_058"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_058" type="fronte">
+         <graphic url="img-cartoline/7694-058F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_058" type="retro">
+         <graphic url="img-cartoline/7694-058R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s> D.G.M. </s>
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> Proprietà artistica riservata - N 132-4 </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>[Ritratto di donna]</head>
+               <figDesc> Ritratto di donna con un cappello. 
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Massa 5-4-917</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb/>            Ti ricordo e bacio <lb/>            con affetto </p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <s>
+                     <lb/>
+                     <signed>
+                        <persName>
+                           <forename ref="Maria">Maria</forename>
+                        </persName>
+                     </signed>
+                     <signed>
+                        <persName>
+                           <forename ref="Maria">Maria</forename>
+                        </persName>
+                     </signed>San<gap reason="illegible"/>
+                  </s>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Signorina Erminia <lb/>            Insi Oliva Turtura <lb/>            Via Girolamo Rossi <lb/>            Ravenna</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 58 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="ti">
+                  <w type="form">Ti</w>
+               </seg>
+               <seg lemma="ricordare">
+                  <w type="form">ricordo</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="bacio">
+                  <w type="form">bacio</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">con</w>
+               </seg>
+               <seg lemma="affetto">
+                  <w type="form">affetto</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

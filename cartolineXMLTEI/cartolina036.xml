@@ -1,0 +1,416 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="cartolina_7694-036">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Sempre mia - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">Università di
+                            <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <bibl type="postcard" default="false" status="draft">
+               <title>Sempre mia</title>
+               <publisher>
+                  <orgName ref="list.xml#SM" instant="false" full="yes">Edizioni Mastroianni</orgName>
+               </publisher>
+               <pubPlace ref="list.xml#RO">Roma</pubPlace>
+               <date when="1916/12/24"> 1916/12/24 </date> 
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_036_001/002</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang>Italiano</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GC" instant="false" full="yes">Giovanni Coliola</persName>
+               <placeName ref="list.xml#SP" instant="false" full="yes">La Spezia</placeName>
+               <date type="writing" when="1916-12-24" instant="false">1916/12/24</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes">Oliva Turtura</persName>
+               <placeName ref="list.xml#RV" instant="false" full="yes">Ravenna</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass default="false">
+            <keywords>
+               <term>Cartolina </term>
+               <term>Cartolina Artistica </term>
+               <term>Coppia di innamorati</term>
+            </keywords>
+         </textClass>
+         <langUsage default="false">
+            <language ident="it-IT">italiano</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xmlns="http://www.tei-c.org/ns/1.0">
+      <surface xml:id="fronte36">
+         <graphic url="img-cartoline/7694-036F.jpg"/>
+      </surface>
+      <surface xml:id="retro36">
+         <graphic url="img-cartoline/7694-036R.jpg"/>
+         <zone xml:id="cid36"
+               ulx="541"
+               uly="5"
+               lrx="578"
+               lry="32"
+               rotate="0"/>
+         <zone xml:id="cintro36"
+               ulx="283"
+               uly="13"
+               lrx="482"
+               lry="55"
+               rotate="0"/>
+         <zone xml:id="ctitolo36"
+               ulx="15"
+               uly="17"
+               lrx="154"
+               lry="51"
+               rotate="0"/>
+         <zone xml:id="ctesto36"
+               ulx="25"
+               uly="63"
+               lrx="598"
+               lry="376"
+               rotate="0"/>
+         <zone xml:id="cedz36"
+               ulx="8"
+               uly="142"
+               lrx="21"
+               lry="376"
+               rotate="0"/>
+         <zone xml:id="cstab36"
+               ulx="263"
+               uly="379"
+               lrx="333"
+               lry="385"
+               rotate="0"/>
+         <zone xml:id="cstmp36"
+               ulx="501"
+               uly="373"
+               lrx="572"
+               lry="385"
+               rotate="0"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front xmlns="http://www.tei-c.org/ns/1.0"><!-- testo tipografico -->
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p part="N">
+               <s rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+                              N. 11 - Sempre mia.
+                                    Toujours à moi.
+                        </s>
+            </p>
+            <p part="N">
+               <s rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+                  <orgName ref="list.xml#EM" instant="false" full="yes">Edizione Mastrianni</orgName> - <placeName ref="list.xml#RO" instant="false" full="yes">Roma</placeName> - Propr. riserv.
+                        </s>
+            </p>
+         </div>
+      </front>
+      <body xmlns="http://www.tei-c.org/ns/1.0">
+         <div facs="#fronte36"
+              type="fronte"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <figure>
+               <figDesc>
+                     Due giovani in un cortile, la ragazza seduta su un muretto vicino ad uno stagno dove nuotano due cigni ed il ragazzo che le tine il braccio mentre la guarda assorto.
+               </figDesc>
+               <head>Sempre mia</head>
+            </figure>
+         </div>
+         <div type="retro" part="N" org="uniform" sample="complete">
+            <div type="message" part="N" org="uniform" sample="complete">
+               <opener>
+                  <dateline>
+                     <lb n="1"/>
+                     <s part="N">
+                        <placeName ref="list.xml#RV" instant="false" full="yes">Spezia</placeName>,li
+                              <date when="1916-12-24" instant="false">24/12-1916.</date>
+                     </s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body" part="N" org="uniform" sample="complete">
+                  <p part="N">
+                     <lb n="2"/>
+                              Oliva mia,
+                              <lb n="3"/>
+                              Non so esprimerti la gioia che sento nell'affer-
+                              <lb n="4"/>
+                              marti che il 27 mattino col treno delle
+                              <lb n="5"/>
+                              8 io sarò a Ravenna. Mia buona Oliva
+                              <lb n="6"/>
+                              ti è finalmente arrivato un nostro segno; augu-
+                              <lb n="7"/>
+                              riamoci di cuore che tutte le nostre aspirazioni
+                              <lb n="8"/>
+                              saranno anch'esse esaudite.
+                        </p>
+               </div>
+               <closer>
+                  <s part="N">
+                     <lb n="9"/>
+                              Un soavissimo
+                     <lb n="10"/>
+                              ed affettuosissimo bacio tuo 
+                        </s>
+                  <signed>
+                     <persName instant="false" full="yes">
+                        <forename ref="list.xml#GC" full="yes">Giovannino</forename>
+                     </persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="secondamano" part="N" org="uniform" sample="complete">
+               <ab type="paratext" part="N">
+                  <add instant="false" status="unremarkable">
+                     <num type="cardinal"> 36 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="Oliva">
+                  <w type="form">Oliva</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mia</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">Non</w>
+               </seg>
+               <seg lemma="sapere">
+                  <w type="form">so</w>
+               </seg>
+               <seg lemma="esprimere">
+                  <w type="form">esprimer-</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">ti</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="gioia">
+                  <w type="form">gioia</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="sentire">
+                  <w type="form">sento</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">nell'</w>
+               </seg>
+               <seg lemma="affermare">
+                  <w type="form">affermar-</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">ti</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="27">
+                  <w type="form">27</w>
+               </seg>
+               <seg lemma="mattino">
+                  <w type="form">mattino</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">col</w>
+               </seg>
+               <seg lemma="treno">
+                  <w type="form">treno</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">delle</w>
+               </seg>
+               <seg lemma="8">
+                  <w type="form">8</w>
+               </seg>
+               <seg lemma="io">
+                  <w type="form">io</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">sarò</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">a</w>
+               </seg>
+               <seg lemma="Ravenna">
+                  <w type="form">Ravenna</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">Mia</w>
+               </seg>
+               <seg lemma="buono">
+                  <w type="form">buona</w>
+               </seg>
+               <seg lemma="Oliva">
+                  <w type="form">Oliva</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">ti</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">è</w>
+               </seg>
+               <seg lemma="finalmente">
+                  <w type="form">finalmente</w>
+               </seg>
+               <seg lemma="arrivare">
+                  <w type="form">arrivato</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">un</w>
+               </seg>
+               <seg lemma="nostro">
+                  <w type="form">nostro</w>
+               </seg>
+               <seg lemma="segno">
+                  <w type="form">segno</w>
+               </seg>
+               <seg lemma=";">
+                  <w type="form">;</w>
+               </seg>
+               <seg lemma="augurare">
+                  <w type="form">auguriamo-</w>
+               </seg>
+               <seg lemma="ci">
+                  <w type="form">ci</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="cuore">
+                  <w type="form">cuore</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="tutto">
+                  <w type="form">tutte</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">le</w>
+               </seg>
+               <seg lemma="nostro">
+                  <w type="form">nostre</w>
+               </seg>
+               <seg lemma="aspirazione">
+                  <w type="form">aspirazioni</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">saranno</w>
+               </seg>
+               <seg lemma="anche">
+                  <w type="form">anch'</w>
+               </seg>
+               <seg lemma="esse">
+                  <w type="form">esse</w>
+               </seg>
+               <seg lemma="esaudire">
+                  <w type="form">esaudite</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">Un</w>
+               </seg>
+               <seg lemma="soave">
+                  <w type="form">soavissimo</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">ed</w>
+               </seg>
+               <seg lemma="affettuoso">
+                  <w type="form">affettuosissimo</w>
+               </seg>
+               <seg lemma="bacio">
+                  <w type="form">bacio</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tuo</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-054">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Les laveuses - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>Les laveuses</title>
+               <date when="1917/11/03"> 1917/11/03</date>
+               <author>
+                  <persName ref="list.xml#JAM">J. A. Muenier </persName>
+               </author>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_054_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postage">
+                              Due francobolli di forma rettangolare di colore verde da 5 centesimi
+                           </stamp>
+                           <stamp type="postmark">
+                              Tre timbri circolari neri, Leggermente sbiaditi e illeggibili
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Giovannino</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in basso a destra della parte superiore della
+                                        cartolina è presente un 54, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GC" instant="false" full="yes">Giovanni Coliola</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes">Oliva Turtura</persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>Les laveuses</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_054"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_054" type="fronte">
+         <graphic url="img-cartoline/7694-054F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_054" type="retro">
+         <graphic url="img-cartoline/7694-054R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>Les laveuses</head>
+               <figDesc> Donne intente a lavare
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Ferrara, li 3/11-1917.</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb/>            Mia buona Oliva, <lb/>            Sono qui alla stazione in attesa<lb/>            del treno. <gap reason="illegible"/> non <lb/>            l'<gap reason="illegible"/> partito alle 6 anzichè alle 9 .<lb/>            Il viaggio sino a Ferrara è partito<lb/>            felicisfimamente. Abbandonato <lb/>            sui <gap reason="illegible"/> solo,  nei più <lb/>            bei nostri pensieri. </p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <s>
+                     <lb/>
+                     <signed>
+                        <persName>
+                           <forename ref="Giovannino">Giovannino</forename>
+                        </persName>
+                     </signed>
+                  </s>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Sig<lb/>            Oliva Turtura <lb/>            Via Girolamo Rosfi 58 <lb/>            Ravenna</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 54 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="mio">
+                  <w type="form">Mia</w>
+               </seg>
+               <seg lemma="buono">
+                  <w type="form">buona</w>
+               </seg>
+               <seg lemma="Oliva">
+                  <w type="form">Oliva</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">Sono</w>
+               </seg>
+               <seg lemma="qui">
+                  <w type="form">qui</w>
+               </seg>
+               <seg lemma="al">
+                  <w type="form">alla</w>
+               </seg>
+               <seg lemma="stazione">
+                  <w type="form">stazione</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="attesa">
+                  <w type="form">attesa</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">del</w>
+               </seg>
+               <seg lemma="treno">
+                  <w type="form">treno</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">non</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="l">
+                  <w type="form">l</w>
+               </seg>
+               <seg lemma="'">
+                  <w type="form">'</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="partito">
+                  <w type="form">partito</w>
+               </seg>
+               <seg lemma="al">
+                  <w type="form">alle</w>
+               </seg>
+               <seg lemma="6">
+                  <w type="form">6</w>
+               </seg>
+               <seg lemma="anzichè">
+                  <w type="form">anzichè</w>
+               </seg>
+               <seg lemma="al">
+                  <w type="form">alle</w>
+               </seg>
+               <seg lemma="9">
+                  <w type="form">9</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">Il</w>
+               </seg>
+               <seg lemma="viaggio">
+                  <w type="form">viaggio</w>
+               </seg>
+               <seg lemma="sino">
+                  <w type="form">sino</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">a</w>
+               </seg>
+               <seg lemma="Ferrara">
+                  <w type="form">Ferrara</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">è</w>
+               </seg>
+               <seg lemma="partire">
+                  <w type="form">partito</w>
+               </seg>
+               <seg lemma="felicissimamente">
+                  <w type="form">felicissimamente</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="abbandonare">
+                  <w type="form">Abbandonato</w>
+               </seg>
+               <seg lemma="su">
+                  <w type="form">sui</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="solo">
+                  <w type="form">solo</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="assorto">
+                  <w type="form">assorto</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">nei</w>
+               </seg>
+               <seg lemma="più">
+                  <w type="form">più</w>
+               </seg>
+               <seg lemma="bello">
+                  <w type="form">bei</w>
+               </seg>
+               <seg lemma="nostro">
+                  <w type="form">nostri</w>
+               </seg>
+               <seg lemma="pensiero">
+                  <w type="form">pensieri</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

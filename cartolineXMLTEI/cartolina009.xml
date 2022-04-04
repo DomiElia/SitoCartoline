@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-009">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rimembranze - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>Rimembranze</title>
+               <publisher>
+                  <orgName ref="list.xml#SM" instant="false" full="yes">Sculture Mastroianni</orgName>
+               </publisher>
+               <author>
+                  <persName ref="list.xml#DM">D. Mastroianni</persName>
+               </author>
+               <pubPlace ref="list.xml#RO">Roma</pubPlace>
+               <date when="1916/12/24" instant="false">1916/12/24</date>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_009_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <!-- descrizione fisica dei timbri -->
+                           <stamp type="postmark"> 
+                                        Il timbro circolare sovrapposto al francobollo è poco leggibile a causa delle sbavature d'inchiostro.
+                                    </stamp>
+                           <!-- descrizione fisica del francobollo -->
+                           <stamp type="postage">
+                                         Francobollo di forma rettangolare color verde da 5 centesimi.
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a destra della parte superiore della
+                                        cartolina è presente un 9, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.sml#GC" instant="false" full="yes">Giovanni Coliola</persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes">Oliva Turtura</persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>Rimembranze</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+            <language ident="fr-FR" usage="2">
+                        Francese
+                        <note anchored="true">(lingua utilizzata per il titolo alternativo della cartolina nel recto)</note>
+            </language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_009"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_09" type="fronte">
+         <graphic url="img-cartoline/7694-009F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_09" type="retro">
+         <graphic url="img-cartoline/7694-009R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front><!-- testo tipografico -->
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s facs="#edizione_09" xml:id="edizione-09" part="N">
+                  <orgName ref="list.xml#SM" type="typography" instant="false" full="yes">
+                                    Sculture MASTROIANNI
+                                    </orgName>
+                  <placeName ref="list.xml#RO" instant="false" full="yes">Roma</placeName>
+                                    Edizione propria 
+                                    N. <num type="cardinal" value="21">21</num>
+               </s>
+               <s facs="#publication_09" xml:id="publication-09" part="N">
+                  <orgName ref="list.xml#AM" type="typography" instant="false" full="yes">
+                                    "Cromogliplica" A.Marzi - 
+                                    <placeName ref="list.xml#RO" instant="false" full="yes">Roma</placeName>
+                  </orgName>
+               </s>
+               <s facs="#title_09" xml:id="title-09" part="N">
+                                    Rimembranze. 
+                                    Rèminiscences.
+                              </s>
+            </p>
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s facs="riprod_09" xml:id="riprod-09" part="N">
+                                    Riproduzione interdetta
+                              </s>
+               <s facs="#stampa_09" xml:id="stampa-09" part="N">
+                                    Stampata in Italia
+                              </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>Rimembranze</head>
+               <figDesc>In primo piano è presente una monaca, seduta su una roccia, con in mano un libro. Intorno a lei un paesaggio floreale e in basso due colombe.
+                  </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Spezia li 24/12-1916.</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb/>            Affettuosisfimi </p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <s>
+                     <lb/>
+                     <signed>
+                        <persName>
+                           <forename ref="Giovannino">Giovannino</forename>
+                        </persName>
+                     </signed>
+                  </s>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Gent.ma Sig.na <lb/>            Oliva Turtura<lb/>            Via Girolamo Rossi 58<lb/>            Ravenna</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab>
+                  <stamp type="postmark">
+                     <mentioned>
+                        <gap reason="illegible" agent="ink"/>
+                     </mentioned>
+                     <date when="1916">
+                        <unclear reason="damage">1916.12.24 </unclear>
+                     </date>
+                  </stamp>
+                  <stamp type="postage">
+                     <mentioned rend="color(GREEN)">
+                        <orgName ref="list.xml#PI" instant="false" full="yes">Poste italiane</orgName>
+                        <hi>
+                           <num rend="double" type="cardinal" value="5">5</num>
+                                                                     centesimi
+                                          <num rend="double" type="cardinal" value="5">5</num>
+                        </hi>
+                     </mentioned>
+                  </stamp>
+               </ab>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 9 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="affettuoso">
+                  <w type="form">Affettuosissimi</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

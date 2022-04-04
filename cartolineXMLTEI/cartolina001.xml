@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-001">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Serenata a Lola - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt>
+                        <!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan>
+                                          Università di
+                                          <placeName ref="list.xml#PI">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability>
+               <p>Available under licence only</p>
+            </availability>
+            <date when="2019">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan>Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc>
+                        <!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard">
+               <title>Serenata a Lola</title>
+               <publisher>
+                  <orgName ref="list.xml#CEABT">Casa Editrice d'Arte Bestetti e Tumminelli</orgName>
+               </publisher>
+               <author>
+                  <persName ref="list.xml#LC">Luigi Conconi</persName>
+               </author>
+               <pubPlace ref="list.xml#MI">Milano</pubPlace>
+               <date when="1914" instant="false">1914</date>
+            </bibl>
+            <msDesc>
+                              <!-- descrizione del manoscritto -->
+               <msIdentifier>
+                                    <!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_001_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc>
+                                    <!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postage">Francobollo da 5 centesimi delle Poste Italiane</stamp>
+                           <stamp type="postmark">Timbro circolare e in parte sovrapposto al francobollo poco leggibile</stamp>
+                        </support>
+                        <condition>
+                                    Cartolina in buone condizioni.
+                        </condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <!-- descrizione del tipo di scrittura usato nella cartolina -->
+                  <handDesc>
+                     <p>La cartolina presenta del testo stampato, contenente informazioni sulla cartolina e sull'edizione, e del testo scritto a mano dal mittente.</p>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+                  <!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc>
+            <correspAction type="sent">
+               <persName ref="list.xml#GC">Giovanni Coliola</persName>
+               <date type="writing" when="1916-04-17">17/04/1916</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT">Oliva Turtura</persName>
+               <placeName ref="list.xml#RV"> Ravenna </placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass>
+                        <!-- Info di classificazione del testo -->
+            <keywords>
+                              <!-- soggettario -->
+                              <!-- tipologia -->
+                              <!-- descrizione -->
+               <term>Cartolina</term>
+               <term>Cartolina Artistica</term>
+               <term>Maria con bambino e angelo</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_001"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_01" type="fronte">
+         <graphic url="img-cartoline/7694-001F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_01" type="retro">
+         <graphic url="img-cartoline/7694-001R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front><!-- testo tipografico -->
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s>
+                              N. 276 -  <orgName ref="list.xml#CEABT"
+                           type="typography"
+                           instant="false"
+                           full="yes">
+                                          Casa Editrice d'Arte Bestetti e Tumminelli
+                                          </orgName> -
+                                          <placeName ref="list.xml#MI" instant="false" full="yes">Milano</placeName>
+               </s>
+            </p>
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s>
+                  <persName ref="list.xml#LC" type="author" instant="false" full="yes">
+                                                LUIGI CONCONI </persName> - "Serenata a Lola",
+                                                            Sérénade à Lola
+                                                            Serenade zu Lola 
+                                                            Serenade to Lola
+                              </s>
+               <s>
+                                    XI ESPOSIZIONE INTERNAZIONALE D'ARTE
+                                    DELLA CITTÀ DI VENEZIA - MCMXIV
+                              </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte">
+            <figure>
+               <head>Serenata a Lola</head>
+               <figDesc> Giovane donna vestita di bianco seduta con gli occhi chiusi
+                              </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb n="1"/>
+                     <s>li 
+                                          <date when="1916-04-17">17/4-1916</date>
+                     </s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p>
+                     <lb n="2"/>
+                              Anelo rivederti
+                              </p>
+               </div>
+               <closer>
+                  <s>
+                     <lb n="3"/>
+                              affettuosissimi 
+                              </s>
+                  <lb n="4"/>
+                  <signed>
+                     <persName>
+                        <forename ref="list.xml#GC">Giovannino</forename>
+                     </persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb n="5"/>
+                                    Alla Signorina
+                                    <lb n="6"/>
+                                    Oliva Turtura
+                                    <lb n="7"/>
+                                    Via Girolamo Rossi 58
+                                    <lb n="8"/>
+                                    Ravenna
+                              </addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab part="N">
+                  <stamp type="postmark">
+                     <mentioned rend="circle">
+                                                      POSTA <gap reason="illegible"
+                             agent="ink"
+                             atLeast="15"
+                             atMost="25"
+                             unit="chars"/>
+                     </mentioned>
+                  </stamp>
+                  <stamp type="postage">
+                     <mentioned>
+                        <orgName ref="list.xml#PI">Poste italiane</orgName>
+                        <hi>
+                           <num rend="double" type="cardinal" value="5">5</num>
+                                                            centesimi
+                                                      <num rend="double" type="cardinal" value="5">5</num>
+                        </hi>
+                     </mentioned>
+                  </stamp>
+               </ab>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext">
+                  <add>
+                     <num type="cardinal" value="1">
+                        <ptr target="#note_1"/>
+                                                                        1
+                                                                  </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="anelare">
+                  <w type="form">Anelo</w>
+               </seg>
+               <seg lemma="rivedere">
+                  <w type="form">riveder-</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">ti</w>
+               </seg>
+               <seg lemma="affettuoso">
+                  <w type="form">affettuosissimi</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>
