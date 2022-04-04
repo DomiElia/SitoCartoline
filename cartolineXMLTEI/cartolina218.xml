@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-218">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>[Donna con cani] - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>[Donna con cani]</title>
+               <date when="191710/24"> 1917/10/24 </date>
+               <author>
+                  <persName ref="list.xml#M"> Monestier </persName>
+               </author>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_218_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Giovannino</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a destra della parte superiore della
+                                        cartolina è presente un 218, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GC" instant="false" full="yes"> Giovanni Coliola </persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes"> Oliva Turtura </persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>[Donna con cani]</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_218"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_218" type="fronte">
+         <graphic url="img-cartoline/7694-218F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_218" type="retro">
+         <graphic url="img-cartoline/7694-218R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s> 36-6</s>
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> Proprietà artistica riservata - Uff.Rev. Stampa N 2067 - Milano </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>[Donna con cani]</head>
+               <figDesc> Proprietà artistica riservata - Uff.Rev. Stampa N 2067 - Milano
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Modena lì 24/10 - 1917</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p type="retro">
+                     <lb/>            Oliva mia, <lb/>            le tue buone parole, il tuo ricordo affettuoso <lb/>            mi sono tanto d'aiuto. è il tuo amore <lb/>            il centro vitale delle mie aspirazioni, la promes - <lb/>            sa delle mie gioie, la plaestra dei miei sacrifi - <lb/>            ci ed io Oliva mia te ne sono riconoscente <lb/>            ricambiando con pari affetto, con ardente <lb/>            amore purisfimo, con forza di sentimenti, <lb/>            in eterno </p>
+                  <p type="fronte">
+                     <lb/>            Sii buona sempre <lb/>            Un bacio </p>
+               </div>
+               <closer>
+                  <lb/>tuo <signed>
+                     <persName>
+                        <forename ref="Giovannino">Giovannino</forename>
+                     </persName>
+                  </signed>
+               </closer>
+               <closer>
+                  <lb/>tuo <signed>
+                     <persName>
+                        <forename ref="Giovannino">Giovannino</forename>
+                     </persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 218 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="Oliva">
+                  <w type="form">Oliva</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mia</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">le</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tue</w>
+               </seg>
+               <seg lemma="buono">
+                  <w type="form">buone</w>
+               </seg>
+               <seg lemma="parola">
+                  <w type="form">parole</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tuo</w>
+               </seg>
+               <seg lemma="ricordo">
+                  <w type="form">ricordo</w>
+               </seg>
+               <seg lemma="affettuoso">
+                  <w type="form">affettuoso</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">sono</w>
+               </seg>
+               <seg lemma="tanto">
+                  <w type="form">tanto</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">d'</w>
+               </seg>
+               <seg lemma="aiuto">
+                  <w type="form">aiuto</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">è</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tuo</w>
+               </seg>
+               <seg lemma="amore">
+                  <w type="form">amore</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="centro">
+                  <w type="form">centro</w>
+               </seg>
+               <seg lemma="vitale">
+                  <w type="form">vitale</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">delle</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mie</w>
+               </seg>
+               <seg lemma="aspirazione">
+                  <w type="form">aspirazioni</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="promes">
+                  <w type="form">promes</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="sapere">
+                  <w type="form">sa</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">delle</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mie</w>
+               </seg>
+               <seg lemma="gioia">
+                  <w type="form">gioie</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="plaestra">
+                  <w type="form">plaestra</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">dei</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">miei</w>
+               </seg>
+               <seg lemma="sacrifi">
+                  <w type="form">sacrifi</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="ci">
+                  <w type="form">ci</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">ed</w>
+               </seg>
+               <seg lemma="io">
+                  <w type="form">io</w>
+               </seg>
+               <seg lemma="Oliva">
+                  <w type="form">Oliva</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mia</w>
+               </seg>
+               <seg lemma="te">
+                  <w type="form">te</w>
+               </seg>
+               <seg lemma="ne">
+                  <w type="form">ne</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">sono</w>
+               </seg>
+               <seg lemma="riconoscente">
+                  <w type="form">riconoscente</w>
+               </seg>
+               <seg lemma="ricambiare">
+                  <w type="form">ricambiando</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">con</w>
+               </seg>
+               <seg lemma="pari">
+                  <w type="form">pari</w>
+               </seg>
+               <seg lemma="affetto">
+                  <w type="form">affetto</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">con</w>
+               </seg>
+               <seg lemma="ardente">
+                  <w type="form">ardente</w>
+               </seg>
+               <seg lemma="amore">
+                  <w type="form">amore</w>
+               </seg>
+               <seg lemma="purisfimo">
+                  <w type="form">purisfimo</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">con</w>
+               </seg>
+               <seg lemma="forza">
+                  <w type="form">forza</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="sentimento">
+                  <w type="form">sentimenti</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="eterno">
+                  <w type="form">eterno</w>
+               </seg>
+               <seg lemma="Sii">
+                  <w type="form">Sii</w>
+               </seg>
+               <seg lemma="buono">
+                  <w type="form">buona</w>
+               </seg>
+               <seg lemma="sempre">
+                  <w type="form">sempre</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">Un</w>
+               </seg>
+               <seg lemma="bacio">
+                  <w type="form">bacio</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

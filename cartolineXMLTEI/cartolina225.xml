@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:id="cartolina_7694-225">
+   <teiHeader xmlns="http://www.tei-c.org/ns/1.0">
+      <fileDesc>
+         <titleStmt>
+            <title>Ritratto di Amelia Solms - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">Università di
+                            <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false">
+            <bibl default="false" status="draft">
+               <title type="custom" resp="list.xml#ES">Ritratto di Amelia Solms</title>
+               <author ref="list.xml#AVD">Antonio Van Dyck</author>
+               <publisher>
+                  <orgName ref="list.xml#OIIAG" instant="false" full="yes">Off. Ist. It. D'Arti Grafiche</orgName>
+               </publisher>
+               <pubPlace ref="list.xml#BG">Bergamo</pubPlace>
+               <date when="1934" instant="false">1934</date>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_225_001/002</idno>
+               </msIdentifier>
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang>Italiano</textLang>
+               </msContents>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                          <stamp type ="postmark">
+                              Timbro circolare nero, ROMA FERROVIA
+                              Timbro circolare nero, RAVENNA 
+                           </stamp>
+                           <stamp type="postage">
+                              Francobollo poste italiane da 30 cent 
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <date type="writing" when="1934-04-08" instant="false">1934/04/08</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes">Oliva Turtura</persName>
+               <placeName ref="list.xml#RA" instant="false" full="yes">Ravenna</placeName>
+            </correspAction>
+         </correspDesc>
+         <textClass default="false">
+            <keywords scheme="">
+               <term>Cartolina </term>
+               <term>Cartolina Artistica </term>
+               <term>Ritratto</term>
+            </keywords>
+         </textClass>
+         <langUsage default="false">
+            <language ident="it-IT">italiano</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xmlns="http://www.tei-c.org/ns/1.0"
+              xml:id="cartolina_225"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_225" type="fronte">
+         <graphic url="img-cartoline/7694-225F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_225" type="retro">
+         <graphic url="img-cartoline/7694-225R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+         <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s> Antonio Van Dyck (1599-1641): Ritratto di 
+                  Amelia di Solms - Milano, R. Pinacoteca di Brera </s> 
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> Off. Ist. It. d'arti grafiche - Bergamo  </s> 
+            </p> 
+         </div>
+      </front> 
+      <body xmlns="http://www.tei-c.org/ns/1.0">
+         <div facs="img-cartoline/7694-225F.jpg"
+              type="fronte"
+              part="N"
+              org="uniform"
+              sample="complete">
+            <figure>
+               <figDesc>Ritratto di donna</figDesc>
+               <head>Ritratto di Amelia Solms</head>
+            </figure>
+            <div type="message" part="N">
+                <p>
+                    <lb n="1"/>
+                    mi ha ricevuto, mi ha assicura-
+                    <lb n="2"/>
+                    to che saranno fatti i passi del
+                    <lb n="3"/>
+                    caso e possiamo sperar bene.
+                </p>
+            </div>
+            <closer>
+               <s part="N">
+                  <lb n="4"/>
+                    Spero vederla presto. Intanto i migliori saluti.
+                </s>
+            </closer>
+         </div>
+         <div type="retro" part="N" org="uniform" sample="complete">
+            <div type="message" part="N" org="uniform" sample="complete">
+               <div type="postcard-body" part="N" org="uniform" sample="complete">
+                  <p part="N">
+                     <lb n="5"/>
+                        Gentile Signora, oggi
+                        <lb n="6"/>
+                        stesso la sua lettera è stata
+                        <lb n="7"/>
+                        portata da me a destinazio-
+                        <lb n="8"/>
+                        ne. Non ho però potuto confe-
+                        <lb n="9"/>
+                        rire come avrei desiderato
+                        <lb n="10"/>
+                        col destinatario, che trovasi
+                        <lb n="11"/>
+                        a Brescia. Il segretario che
+                    </p>
+               </div>
+            </div>
+            <div type="address-destination"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
+               <p part="N">
+                  <address>
+                     <addrLine>
+                        <lb n="12"/>
+                            Signora
+                            <lb n="13"/>
+                            Oliva luliola
+                            <lb n="14"/>
+                            Via Girolamo Rossi
+                            <lb n="15"/>
+                            Ravenna
+                        </addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage"
+                 part="N"
+                 org="uniform"
+                 sample="complete">
+               <ab part="N">
+                  <stamp type="postmark">
+                     <mentioned>ROMA ★ FERROVIA ★ 21-02 G.M R IV 34.XII</mentioned>
+                  </stamp>
+                  <stamp type="postmark">
+                     <mentioned>RAVENNA ★ ARRIVI E PARTENZE ★ -9</mentioned>
+                     <date when="1934-04-13" instant="false">04.34.13</date>
+                  </stamp>
+                  <stamp type="postmark">
+                     <mentioned>
+                                MOSTRA RIVOLUZIONE FASCISTA -
+                                ROMA RIDUZIONI FERROVIE 70%
+                            </mentioned>
+                  </stamp>
+                  <stamp type="postage">Francobollo da 30 centesimi di Poste Italiane</stamp>
+               </ab>
+            </div>
+            <div type="secondamano" part="N" org="uniform" sample="complete">
+               <ab type="paratext" part="N">
+                  <add instant="false" status="unremarkable">
+                     <num type="cardinal" value="225">
+                                    225
+                                </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="gentile">
+                  <w type="form">Gentile</w>
+               </seg>
+               <seg lemma="Signora">
+                  <w type="form">Signora</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="oggi">
+                  <w type="form">oggi</w>
+               </seg>
+               <seg lemma="stesso">
+                  <w type="form">stesso</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="suo">
+                  <w type="form">sua</w>
+               </seg>
+               <seg lemma="lettera">
+                  <w type="form">lettera</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">è</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">stata</w>
+               </seg>
+               <seg lemma="portare">
+                  <w type="form">portata</w>
+               </seg>
+               <seg lemma="da">
+                  <w type="form">da</w>
+               </seg>
+               <seg lemma="me">
+                  <w type="form">me</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">a</w>
+               </seg>
+               <seg lemma="destinazione">
+                  <w type="form">destinazione</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">Non</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">ho</w>
+               </seg>
+               <seg lemma="però">
+                  <w type="form">però</w>
+               </seg>
+               <seg lemma="potere">
+                  <w type="form">potuto</w>
+               </seg>
+               <seg lemma="conferire">
+                  <w type="form">conferire</w>
+               </seg>
+               <seg lemma="come">
+                  <w type="form">come</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">avrei</w>
+               </seg>
+               <seg lemma="desiderare">
+                  <w type="form">desiderato</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">col</w>
+               </seg>
+               <seg lemma="destinatario">
+                  <w type="form">destinatario</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="trovare">
+                  <w type="form">trova-</w>
+               </seg>
+               <seg lemma="si">
+                  <w type="form">si</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">a</w>
+               </seg>
+               <seg lemma="Brescia">
+                  <w type="form">Brescia</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">Il</w>
+               </seg>
+               <seg lemma="segretario">
+                  <w type="form">segretario</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">ha</w>
+               </seg>
+               <seg lemma="ricevere">
+                  <w type="form">ricevuto</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">ha</w>
+               </seg>
+               <seg lemma="assicurare">
+                  <w type="form">assicurato</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">saranno</w>
+               </seg>
+               <seg lemma="fatto">
+                  <w type="form">fatti</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">i</w>
+               </seg>
+               <seg lemma="passo">
+                  <w type="form">passi</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">del</w>
+               </seg>
+               <seg lemma="caso">
+                  <w type="form">caso</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="potere">
+                  <w type="form">possiamo</w>
+               </seg>
+               <seg lemma="sperare">
+                  <w type="form">sperar</w>
+               </seg>
+               <seg lemma="bene">
+                  <w type="form">bene</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="sperare">
+                  <w type="form">Spero</w>
+               </seg>
+               <seg lemma="vedere">
+                  <w type="form">veder-</w>
+               </seg>
+               <seg lemma="la">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="presto">
+                  <w type="form">presto</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="intanto">
+                  <w type="form">Intanto</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">i</w>
+               </seg>
+               <seg lemma="migliore">
+                  <w type="form">migliori</w>
+               </seg>
+               <seg lemma="saluto">
+                  <w type="form">saluti</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>

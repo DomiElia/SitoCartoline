@@ -1,0 +1,618 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-195">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ritratto di un'attrice - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>Ritratto di un'attrice</title>
+               <date when="1918/03/06"> 1918/03/06</date>
+               <author>
+                  <persName ref="list.xml#AJ"> Achille Jemoli </persName>
+               </author>
+               <publisher>
+                  <orgName ref="list.xml#BT"> Casa editrice d' aste Bestetti e Tumminelli</orgName>
+               </publisher>
+               <pubPlace ref="list.xml#MI"> Milano </pubPlace>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_195_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Giovannino</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a sinistra della parte superiore della
+                                        cartolina è presente un 195, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GC" instant="false" full="yes"> Giovanni Coliola </persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes"> Oliva Turtura </persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>Ritratto di un'attrice</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_195"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_195" type="fronte">
+         <graphic url="img-cartoline/7694-195F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_195" type="retro">
+         <graphic url="img-cartoline/7694-195R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(horizontal-lr) text-orientation(sideways)" part="N">
+               <s> Proprietà art. riserv. - Casa editrice d' aste Bestetti e Tumminelli - Milano
+                  Visto Uff.Rev.Stampa  - Varese 29-11-1917 </s>
+            </p>
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> esposizione annuale della società per le belle arti
+                   esposizione permanente in Milano - 1916 </s>
+               <s> ACHILLE JEMOLI Ritratto di un'attrice 
+                                  Portrait d'une actrice
+                                  Picture of an actres </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>Ritratto di un'attrice</head>
+               <figDesc> Ritratto di un'attrice, in posa. 
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Formigine lì 6/3 - 1918</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p type="retro">
+                     <lb/>            Oliva, <lb/>            ti scrivo questa mattina presto, per - <lb/>            chè dispero di poterlo fare dopo.  <lb/>            Devo trasferirmi con tutta la compa - <lb/>            gnia in una località denominata<lb/>            Carlo, poco lunghi da Formigine. <lb/>            Tuttavia sono sempre le stesfe secca -<lb/>            ture le solite banalità che mi fanno <lb/>            proprio male asfai. Per ora non ap - <lb/>            postare nessun mutamento al <lb/>            mio indirizzo, giacchè temo di dovermi <lb/>            muovere ancora. Per questi pochi gior - <lb/>            ni mandare il mio attendente su la <lb/>            posta o mi adopererò io stesfo per <lb/>            averla. Perdonami questo mutabilità.  <lb/>            Amami tanto tanto, scrivimi <lb/>            molto, solo le tue lettere mi dona - <lb/>            no la sensazione della vita. <lb/>            E il tuo ricordo esalta i miei<lb/>            sentimenti più forti e più <lb/>            belli. Un bacio </p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <lb/>tuo <signed>
+                     <persName>
+                        <forename ref="Giovannino">Giovannino</forename>
+                     </persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext" part="N">
+                  <add>
+                     <num type="cardinal"> 195 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="Oliva">
+                  <w type="form">Oliva</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="ti">
+                  <w type="form">ti</w>
+               </seg>
+               <seg lemma="scrivere">
+                  <w type="form">scrivo</w>
+               </seg>
+               <seg lemma="questo">
+                  <w type="form">questa</w>
+               </seg>
+               <seg lemma="mattina">
+                  <w type="form">mattina</w>
+               </seg>
+               <seg lemma="presto">
+                  <w type="form">presto</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="per">
+                  <w type="form">per</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="chè">
+                  <w type="form">chè</w>
+               </seg>
+               <seg lemma="disperare">
+                  <w type="form">dispero</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="potere">
+                  <w type="form">poter-</w>
+               </seg>
+               <seg lemma="lo">
+                  <w type="form">lo</w>
+               </seg>
+               <seg lemma="fare">
+                  <w type="form">fare</w>
+               </seg>
+               <seg lemma="dopo">
+                  <w type="form">dopo</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="dovere">
+                  <w type="form">Devo</w>
+               </seg>
+               <seg lemma="trasferire">
+                  <w type="form">trasferir-</w>
+               </seg>
+               <seg lemma="me">
+                  <w type="form">me</w>
+               </seg>
+               <seg lemma="con">
+                  <w type="form">con</w>
+               </seg>
+               <seg lemma="tutto">
+                  <w type="form">tutta</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="compa">
+                  <w type="form">compa</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="gnia">
+                  <w type="form">gnia</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">una</w>
+               </seg>
+               <seg lemma="località">
+                  <w type="form">località</w>
+               </seg>
+               <seg lemma="denominare">
+                  <w type="form">denominata</w>
+               </seg>
+               <seg lemma="Carlo">
+                  <w type="form">Carlo</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="poco">
+                  <w type="form">poco</w>
+               </seg>
+               <seg lemma="lungo">
+                  <w type="form">lunghi</w>
+               </seg>
+               <seg lemma="da">
+                  <w type="form">da</w>
+               </seg>
+               <seg lemma="Formigine">
+                  <w type="form">Formigine</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="tuttavia">
+                  <w type="form">Tuttavia</w>
+               </seg>
+               <seg lemma="essere">
+                  <w type="form">sono</w>
+               </seg>
+               <seg lemma="sempre">
+                  <w type="form">sempre</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">le</w>
+               </seg>
+               <seg lemma="stesfe">
+                  <w type="form">stesfe</w>
+               </seg>
+               <seg lemma="secco">
+                  <w type="form">secca</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="ture">
+                  <w type="form">ture</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">le</w>
+               </seg>
+               <seg lemma="solito">
+                  <w type="form">solite</w>
+               </seg>
+               <seg lemma="banalità">
+                  <w type="form">banalità</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="fare">
+                  <w type="form">fanno</w>
+               </seg>
+               <seg lemma="proprio">
+                  <w type="form">proprio</w>
+               </seg>
+               <seg lemma="male">
+                  <w type="form">male</w>
+               </seg>
+               <seg lemma="asfai">
+                  <w type="form">asfai</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="per">
+                  <w type="form">Per</w>
+               </seg>
+               <seg lemma="ora">
+                  <w type="form">ora</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">non</w>
+               </seg>
+               <seg lemma="ap">
+                  <w type="form">ap</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="postare">
+                  <w type="form">postare</w>
+               </seg>
+               <seg lemma="nessun">
+                  <w type="form">nessun</w>
+               </seg>
+               <seg lemma="mutamento">
+                  <w type="form">mutamento</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">al</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mio</w>
+               </seg>
+               <seg lemma="indirizzo">
+                  <w type="form">indirizzo</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="giacchè">
+                  <w type="form">giacchè</w>
+               </seg>
+               <seg lemma="temere">
+                  <w type="form">temo</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="dovere">
+                  <w type="form">dover-</w>
+               </seg>
+               <seg lemma="me">
+                  <w type="form">me</w>
+               </seg>
+               <seg lemma="muovere">
+                  <w type="form">muovere</w>
+               </seg>
+               <seg lemma="ancora">
+                  <w type="form">ancora</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="per">
+                  <w type="form">Per</w>
+               </seg>
+               <seg lemma="questo">
+                  <w type="form">questi</w>
+               </seg>
+               <seg lemma="poco">
+                  <w type="form">pochi</w>
+               </seg>
+               <seg lemma="gior">
+                  <w type="form">gior</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="ni">
+                  <w type="form">ni</w>
+               </seg>
+               <seg lemma="mandare">
+                  <w type="form">mandare</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mio</w>
+               </seg>
+               <seg lemma="attendente">
+                  <w type="form">attendente</w>
+               </seg>
+               <seg lemma="su">
+                  <w type="form">su</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="posta">
+                  <w type="form">posta</w>
+               </seg>
+               <seg lemma="o">
+                  <w type="form">o</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="adoperare">
+                  <w type="form">adopererò</w>
+               </seg>
+               <seg lemma="io">
+                  <w type="form">io</w>
+               </seg>
+               <seg lemma="stesfo">
+                  <w type="form">stesfo</w>
+               </seg>
+               <seg lemma="per">
+                  <w type="form">per</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">aver-</w>
+               </seg>
+               <seg lemma="la">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="perdonare">
+                  <w type="form">Perdona-</w>
+               </seg>
+               <seg lemma="me">
+                  <w type="form">me</w>
+               </seg>
+               <seg lemma="questo">
+                  <w type="form">questo</w>
+               </seg>
+               <seg lemma="mutabilità">
+                  <w type="form">mutabilità</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="amare">
+                  <w type="form">Ama-</w>
+               </seg>
+               <seg lemma="me">
+                  <w type="form">me</w>
+               </seg>
+               <seg lemma="tanto">
+                  <w type="form">tanto</w>
+               </seg>
+               <seg lemma="tanto">
+                  <w type="form">tanto</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="scrivere">
+                  <w type="form">scrivi-</w>
+               </seg>
+               <seg lemma="me">
+                  <w type="form">me</w>
+               </seg>
+               <seg lemma="molto">
+                  <w type="form">molto</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="solo">
+                  <w type="form">solo</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">le</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tue</w>
+               </seg>
+               <seg lemma="lettera">
+                  <w type="form">lettere</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="donare">
+                  <w type="form">dona</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="no">
+                  <w type="form">no</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="sensazione">
+                  <w type="form">sensazione</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">della</w>
+               </seg>
+               <seg lemma="vita">
+                  <w type="form">vita</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">E</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tuo</w>
+               </seg>
+               <seg lemma="ricordo">
+                  <w type="form">ricordo</w>
+               </seg>
+               <seg lemma="esaltare">
+                  <w type="form">esalta</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">i</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">miei</w>
+               </seg>
+               <seg lemma="sentimento">
+                  <w type="form">sentimenti</w>
+               </seg>
+               <seg lemma="più">
+                  <w type="form">più</w>
+               </seg>
+               <seg lemma="forte">
+                  <w type="form">forti</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="più">
+                  <w type="form">più</w>
+               </seg>
+               <seg lemma="bello">
+                  <w type="form">belli</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="uno">
+                  <w type="form">Un</w>
+               </seg>
+               <seg lemma="bacio">
+                  <w type="form">bacio</w>
+               </seg>
+               <seg lemma="Giovannino">
+                  <w type="form">Giovannino</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>
