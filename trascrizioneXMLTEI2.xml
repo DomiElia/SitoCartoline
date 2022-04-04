@@ -1,0 +1,3812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tei:teiCorpus xmlns="http://www.tei-c.org/ns/1.0" xmlns:tei="http://www.tei-c.org/ns/1.0">
+   <tei:teiHeader>
+      <tei:fileDesc>
+         <tei:titleStmt>
+            <tei:title> Cartoline della Grande Guerra - Edizione digitale </tei:title>
+            <tei:respStmt>
+               <tei:resp>Trascritto da:</tei:resp>
+               <tei:persName>Letizia Ricci</tei:persName>
+               <tei:persName>Dominga Elia</tei:persName>
+            </tei:respStmt>
+            <tei:respStmt>
+               <tei:resp>Ente di Appartenenza:</tei:resp>
+               <tei:name>Comune di
+						                    <tei:placeName>La Spezia</tei:placeName>
+               </tei:name>
+            </tei:respStmt>
+         </tei:titleStmt>
+         <tei:editionStmt>
+            <tei:edition>Studenti di Codifica di testi, Corso di Laurea Triennale di Informatica Umanistica, Università di Pisa
+                            <tei:date>2018</tei:date>
+            </tei:edition>
+            <tei:respStmt>
+               <tei:resp>Codificato da:</tei:resp>
+               <tei:persName>Letizia Ricci</tei:persName>
+               <tei:persName>Dominga Elia</tei:persName>
+            </tei:respStmt>
+            <respStmt>
+               <resp>Compilatore</resp>
+               <persName>Tommaso Castagneto</persName>
+            </respStmt>
+            <tei:respStmt>
+               <tei:resp>Responsabile scientifico:</tei:resp>
+               <tei:persName>Giacomo Paolicchi</tei:persName>
+               <tei:persName>Enrica Salvatori</tei:persName>
+            </tei:respStmt>
+            <tei:respStmt>
+               <tei:resp>Funzionario responsabile:</tei:resp>
+               <tei:persName>Marzia Ratti</tei:persName>
+            </tei:respStmt>
+         </tei:editionStmt>
+         <tei:publicationStmt>
+            <tei:publisher>
+               <tei:choice>
+                  <tei:abbr>Unipi</tei:abbr>
+                  <tei:expan>Università di
+                            <tei:placeName>Pisa</tei:placeName>
+                  </tei:expan>
+               </tei:choice>
+            </tei:publisher>
+            <tei:pubPlace>Pisa</tei:pubPlace>
+            <tei:availability>
+               <tei:p>Available under licence only</tei:p>
+            </tei:availability>
+            <tei:date>2019</tei:date>
+            <tei:distributor>
+               <tei:orgName>
+                  <tei:choice>
+                     <tei:abbr>LabCD</tei:abbr>
+                     <tei:expan>Laboratorio di Cultura Digitale</tei:expan>
+                  </tei:choice>
+               </tei:orgName>
+            </tei:distributor>
+            <tei:address>
+               <tei:addrLine>Laboratorio di Cultura Digitale - Università di Pisa</tei:addrLine>
+               <tei:addrLine>
+                  <tei:placeName>Pisa</tei:placeName>
+               </tei:addrLine>
+            </tei:address>
+         </tei:publicationStmt>
+      </tei:fileDesc>
+   </tei:teiHeader>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-028">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro"/>
+                  <tei:p type="fronte"/>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-033">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro"/>
+                  <tei:p type="fronte"/>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-094">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena, li 7/6-1917.</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            C'è un caldo canicolare pieno <tei:lb/>            di sposfatezza. Sono in attesa, <tei:lb/>            in trepida attesa, sifatto il postino <tei:lb/>            che deve portarmi i baci della mia <tei:lb/>            Oliva, sarà una proficua attesa?<tei:lb/>            Questa mattina nulla, solo una sem-<tei:lb/>            plice cartolina della Giovannetta. <tei:lb/>            Mi perdo in frenetiche fantasie d'amore <tei:lb/>            e penso a te. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent.ma Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-097">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 8/6 - 917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Sempre gli sguardi ed i pensieri <tei:lb/>            rivolti là, verso la rosea nube degli<tei:lb/>            ideali, in un cielo azzurro cristal - <tei:lb/>            lino che non paventa la bufera,<tei:lb/>            in una esaltazione di purezza<tei:lb/>            in una tranquillità di moti. <tei:lb/>            Un delizioso bacio e fine <tei:gap reason="illegible"/>epibile<tei:lb/>            mistero che unisce i nostri cuori. </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Finisce la serie poco seria delle arti belle.<tei:lb/>            Saluti alla mamma e a tutti. </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-098">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 8/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Costanti pensieri.</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-099">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ardentisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-100">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 26/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva, <tei:lb/>            sono solo solo nella mia camera <tei:lb/>            e rivado col pensiero alle belle serate <tei:lb/>            trascorse in tua compagnia. <tei:lb/>            Incerte e confuse mi giungono mille <tei:lb/>            voci unisone, mille echi di anime <tei:lb/>            illuse d'una vita allegra e briosa <tei:lb/>            povere d'amore e ricche di procaci <tei:lb/>            ambizioni. Io le ho fuggite e mi sono ricoverato presfo la quiete <tei:lb/>            dei miei pensieri che mi danno la <tei:lb/>            nostalgia profonda e il desiderio <tei:lb/>            irresistibile di te, di te e di nesfun <tei:lb/>            altra, ho dimenticato tutto, tutto e <tei:lb/>            tu sei la regina che impera sul <tei:lb/>            l'animo mio, sempre <tei:lb/>            amami mia cara forte forte. <tei:lb/>            Un soavisfimo dal tuo </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-101">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 29/5 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricorda affettuosi e <tei:lb/>            carisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-102">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Roma 21 3 1916</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ti ricordo sempre <tei:lb/>            con immenso <tei:lb/>            affetto <tei:lb/>
+                     <tei:gap reason="illegible"/>
+                  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>
+                           <tei:gap reason="illegible"/> Signorina<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            S.Vittore <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-103">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Ravenna 29-VII-913</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricevo ora la tua desidera - <tei:lb/>            ta lettera, e mi dispiace che <tei:lb/>            il mio dono biscottifero <tei:lb/>            abbia prodigato sul vestito <tei:lb/>            tutta l'effusione di chi <tei:lb/>            generosamente regalò. <tei:lb/>            Non dici però l'entità <tei:lb/>            del danno mentre avrei <tei:lb/>            voluto saperlo. Se in tempo saluta la Carolina. <tei:lb/>            Non posso scrivere di  <tei:lb/>            più perchè occupatisfimo. <tei:lb/>            Porta la lettera all'Antonietta <tei:lb/>            Appena possibile scriverò. Addio..cara! <tei:lb/>            A Ravenna niente di nuovo.</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giuseppe">Giuseppe</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Signorina<tei:lb/>            Oliva Turtura <tei:lb/>            presso sig. Cibecchini <tei:lb/>            via Cavour 12<tei:lb/>            Aroma <tei:lb/>            (Lago maggiore)</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-104">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Sangiovanni 7-IV-917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Vivissimi<tei:lb/>            auguri e saluti<tei:lb/>            a lei e famiglia <tei:lb/>            G. Mugi M<tei:gap reason="illegible"/>
+                  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-105">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 6/6 - 1917 - </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            L'ora della sera è triste per me, l'ora<tei:lb/>            in cui l'ombra invade le cose, l'ani - <tei:lb/>            mo si schiude agli affetti e il ricor - <tei:lb/>            do delle care persone lontane trionfa <tei:lb/>            su tutti i sentimenti e si fa tiranno.<tei:lb/>            Perchè non averti qui? Perchè non <tei:lb/>            posfiamo aspirare insieme le dolcezze <tei:lb/>            di quest'ora? </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-106">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Carisfima, <tei:lb/>            ricevuta tua cartolina, grazie infini - <tei:lb/>            te. Se hai occasione di andare da <tei:lb/>            Bertazzi dopo al 30 giugno chiedigli<tei:lb/>            qualche cosa per <tei:gap reason="illegible"/> perchè se <tei:lb/>            nulla otterrò per trasferimento<tei:lb/>            sono decisa a fare il concorso<tei:lb/>            Quando avrò avuto questa notizia<tei:lb/>            che tu gentilmente mi darai <tei:lb/>            verrò a Ravenna. Di nuovo<tei:lb/>            Grazie. Saluti a tutti per me <tei:lb/>            e a te da tutti. <tei:lb/>            Baci. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Bianca">Bianca</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Signorina<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-107">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 6/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricordando tutti</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-108">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Milano 11/3 1916 Ravenna </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti cordialisfimi a tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Mario">Mario</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Alla Gent. Signorina <tei:lb/>            Oliva Turtura <tei:lb/>            Via G. Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-109">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            3/7 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Temporale </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na<tei:lb/>            Oliva Turtura<tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-110">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 2/7 - 1917 - </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva carisfima, <tei:lb/>            un pungente desiderio di vivere con te, di averti <tei:lb/>            sempre costantemente vicina a me, mi stringe a - <tei:lb/>            maramente l'animo e mi fa soffrire<tei:lb/>            quando, quando avremo pace? Non so, <tei:lb/>            non vedo la fine dei tormenti insani e dei <tei:lb/>            miei, non so più sperare, più, più. <tei:lb/>            Il tuo tenero amore mi dà le vertigini del senti - <tei:lb/>            mento, ma non la felicità presente.<tei:lb/>            Il bisogno offerto da te, dei tuoi baci, delle <tei:lb/>            tue carezze, niente altro c'è al mondo che posfa <tei:lb/>            completarmi e vivo scontento. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-111">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro"/>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sign.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-113">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia cara, <tei:lb/>            domenica e lunedì senza un tuo scritto, <tei:lb/>            senza un tuo dolcisfimo bacio che è tan - <tei:lb/>            ta forte del mio cuore. Perchè così?<tei:lb/>            Io so tu vorrai ch'io corra da te a por -  <tei:lb/>            tarti le delizie dell'animo mio, tutto <tei:lb/>            il mio affetto carezzevole i miei sentimen - <tei:lb/>            ti pieni di ardore, il mio amore fuori ci <tei:lb/>            sono la luce, l'aria, la vita l'azzurro <tei:lb/>            gli ideali più santi e più nobili. <tei:lb/>            Lo so è il mio stufo anelito!<tei:lb/>            Un desiderio che mi agita tutto, un <tei:lb/>            mondo di misteri, un arcano infinito <tei:lb/>            di luce strana, suggestionatrice, tanta <tei:lb/>            parte di me stufo, la più bella, la più <tei:lb/>            potente, inoperosa, inattiva e il <tei:lb/>            rammarico atroce dei giorni che pasfano <tei:lb/>            la vita che s'invola dal dominio della <tei:lb/>            giovinezza bella, fascinatrice. <tei:lb/>            Oliva ma, ma, non volgio più così, <tei:lb/>            amami, amami sempre meglio.<tei:lb/>            Mille leggerisfime carezze tuo, tuo, tuo </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-114">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 7/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille cose belle</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sign.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-115">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 8/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti affettuosisfimi <tei:lb/>            a tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sign.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-116">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 12/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ti bacio con tenero affetto </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sign.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-117">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 17/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro"/>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sign.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-118">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Anche questa domenica è pasfata nella più squallida assoli -  <tei:lb/>            tà di mente e di spirito, senza il conforto di uno sguardo, <tei:lb/>            di una lieve stretta di mano. E il più snervante passosismo <tei:lb/>            Io credo di non conoscere perfettamente me stesso, ma se io <tei:lb/>            cercasfi di spiegarti tutto quello che mi turbina in cuore, <tei:lb/>            d'alto canto che faccio di questa mia misera vita, e il disprezzo<tei:lb/>            dei tempi, l' alludiosa società, la non curanza del mio av - <tei:lb/>            venire, il timore del tuo nei riguardi del mio grande amore, <tei:lb/>            forse ti apparirei troppo cattivo e ti farei piangere - tu non mi <tei:lb/>            comprenderesti. Tu non sai che il tuo amore è <tei:lb/>            divenuto il mio martirio e lo sarà per tutta la mia vita <tei:lb/>            perchè sento implacabile il mio destino - ti vivrò sempre lon - <tei:lb/>            tano e poi ho perduto la fede delle mie forze .... <tei:lb/>            sono cattivo cattivo cattivo </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Perdonami Oliva di quanto ti faccio <tei:lb/>            soffrire mi è venuta la tentazione<tei:lb/>            di lasciare questi miei scritti... poi <tei:lb/>            che dirti....ho l'animo pieno  <tei:lb/>            di veleno... perchè <tei:gap reason="illegible"/> che sono cattivo, ora. <tei:lb/>            Non sarò sincero con te.... t'amo questo si. <tei:lb/>            Ti bacio perdutamente tuo con l'anima<tei:lb/>            per sempre, in eterno malgrado tutto. </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-119">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 14/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sign.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-120">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 16/6-1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricordami tanto <tei:lb/>            affettuosisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-123">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/7 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti affettuosi <tei:lb/>            a tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Sig.re  <tei:lb/>            Giuseppe Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-124">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/7 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Cordialisfimi saluti  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Antonietta Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-125">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Lì 27/9 - 1916. </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mia buona Oliva, nemmeno <tei:lb/>            oggi voglio lasciarti senza il mio affettuoso saluto, <tei:lb/>            malgrado la grande attività mi tenga occupato<tei:lb/>            giorno e notte per il cambio di posizioni. <tei:lb/>            Questa notte si forte fu la trincea. Coraggio <tei:lb/>            mia carisfima Oliva. Pensa che il tuo Giovan - <tei:lb/>            nino è con te, per te, t'amo, t'amo tanto <tei:lb/>            tanto affascinatamente, eternamente. Si sempre <tei:lb/>            buona e voglimi bene. Con tutto l'animo<tei:lb/>            mio abbi un soavisfimo bacio dal <tei:lb/>            Oggi mi sono recato a Gorizia. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-126">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/7 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affetuosi saluti <tei:lb/>            a tutta la famiglia <tei:lb/>            tuo devoto </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.re  <tei:lb/>            Giuseppe Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-127">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/7 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Pensieri affettuosi <tei:lb/>            mi avvicinano a te  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-128">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 9/8 - 1917 - </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricorda..... </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-129">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 18/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-130">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 15/8 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            ore 23 -<tei:lb/>            Ti ricordo con affetto  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-131">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/8 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro"/>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-132">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 2/8 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Gli ultimi istanti del giorno sono <tei:lb/>            dedicati a te. <tei:lb/>            I dolci pensieri che mi vengono dal <tei:lb/>            tuo amore mi chiudono le palpe<tei:lb/>            bre al sonno ristoratore; e le mie <tei:lb/>            labbra t'inviano un bacio </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-133">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 1/8 - 1917 -</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Un affettuoso pensiero e la <tei:lb/>            voce del mio amore.</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-134">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 6/7 - 1917 -</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-135">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 10/8 - 1917 - </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-136">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 4/8 - 1917 -</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti a tutti  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-139">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 22/8 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-140">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            16 aprile 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            zona di guerra <tei:lb/>            Prego di scusarmi <tei:lb/>            se esprimo con tanto <tei:lb/>            ritardo il mio gradi - <tei:lb/>            mento d'essere stato   <tei:lb/>            ricordato così gentilmente <tei:lb/>            da lei e dalla mamma <tei:lb/>            ricambiati gli auguri <tei:lb/>            di tutto cuore. Anche <tei:lb/>            il caro tenente Coliola </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            mi ha scritto e più d'una volta <tei:lb/>            e ha scritto fervido amico. <tei:lb/>            Confesso che gli debbo ancora rispondere.  <tei:lb/>            Non mi basta il tempo e sono costretto <tei:lb/>            a lasciare indietro gli amici vecchi e nuovi.  <tei:lb/>            Ma ci rifaremo! Come sta l'ottimo Coliola?<tei:lb/>            è guarito? è venuto a Ravenna? Nè riceverò <tei:lb/>            notizie recenti indirette. Qui il numero <tei:lb/>            dei feriti e un po' cresciuto ma l'ospedale<tei:lb/>            ingrandito è pronto a riceverne fin altre due -<tei:lb/>            cento. Abbiamo avuto una Pasqua piuttosto triste <tei:lb/>            colla pioggia abituale e poi ci sono capitate una <tei:lb/>            madre e una sposa che fino da Palermo erano accorse  <tei:lb/>            per abracciare un loro adorato ferito a non hanno <tei:lb/>            trovato da un cadavere. è stato solo strazio per loro e <tei:lb/>            per noi. <tei:lb/>            Porta <tei:gap reason="illegible"/> una cartolina per Cioliola. <tei:lb/>            Il cannone tuona più forte, dì e notte <tei:lb/>            Pare che s'avvicini la divisione<tei:lb/>            che sarà la vittoria nostra <tei:lb/>
+                     <tei:gap reason="illegible"/> con  <tei:lb/>
+                     <tei:gap reason="illegible"/>
+                  </tei:p>
+               </tei:div>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent.ma Signorina <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rossi <tei:lb/>            n. 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-141">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            14 luglio 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            zone di guerra <tei:lb/>            Gent ma signorina, il silenzio <tei:lb/>            dice falso se dice dimenti-<tei:lb/>            carsi e ingratitudine. È stato<tei:lb/>            silenzio forzato, creda. O ricercate<tei:lb/>            le <tei:gap reason="illegible"/> parole d'incoraggiamento, <tei:lb/>            opportunissime ed efficaci in <tei:lb/>            un periodo di lavoro affannato.<tei:lb/>            Adesso c'è respiro, discreto, con <tei:lb/>            presentimento di cose più grandi. <tei:lb/>            E allora io passerò giorni, più<tei:lb/>            oltre, in condizioni diverse, ma <tei:lb/>            sempre per il mio <tei:gap reason="illegible"/>
+                     <tei:lb/>            Desidero notizie di Giovannino <tei:lb/>            che mi 'a' dato la sua, e spero <tei:lb/>            me la conservi, a mi 'a' procacciato<tei:lb/>            la loro, cara amicizia. A voi, a <tei:lb/>            lei alla mamma auguri cordialità<tei:lb/>
+                     <tei:gap reason="illegible"/>
+                  </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Zona di guerra <tei:lb/>            14 luglio 1917</tei:p>
+               </tei:div>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent.ma Signorina  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rossi <tei:lb/>            n. 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-142">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 13/8 - 1917 -</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Sempre ricordandoti <tei:lb/>            con infinito affetto   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-143">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/8 - 1917 -</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille affettuosità</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-144">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 9/6 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Frequenti pensieri</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-145">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia <tei:lb/>            un rapido saluto, un bacio d'amore, <tei:lb/>            in cui tutta l'anima cede all'amore. <tei:lb/>            Oliva, Oliva, ti chiamo, t'invoco <tei:lb/>            ti ricordo sempre!!<tei:lb/>            Ti voglio presso di me per amarti d'un <tei:lb/>            amore ardente, sublime, grande.</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-146">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            R Modena lì 27/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti aff fi a tutti</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Sig re<tei:lb/>            Giuseppe Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-147">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>
+                     <tei:gap reason="illegible"/>
+                  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Signorina Carola Capanna <tei:lb/>            'Marè' Antonio Colonna /o <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-148">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Bologna lì 22/5 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricordando tutto tutto<tei:lb/>            pensandoti sempre e tanto<tei:lb/>            mi avvicino a Modena</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-149">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Vignola lì 16/7 - 1918 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affetuosisfimi </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-152">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia,<tei:lb/>            è domenica, un sordo sentimen - <tei:lb/>            to di tristezza mi pervade tutto. <tei:lb/>            Così solo solo disperatamente <tei:lb/>            solo! nemmeno le magrificen -<tei:lb/>            ze della natura ch'è tutto azzurro <tei:lb/>            tutto, verde tutto <tei:gap reason="illegible"/> distol - <tei:lb/>            gono e alleviano i miei pensie - <tei:lb/>            ri: io voglio te, te solo solo <tei:lb/>            te che voglio tanto bene come non <tei:lb/>            sai, non saprai mai. Io voglio <tei:lb/>            stare con te un solo attimo che <tei:lb/>            ti darà l'amore in eterno. <tei:lb/>            sarà si a riempirti il cuore e <tei:lb/>            gioire. Io ti darò l'amore e il dolo - <tei:lb/>            re, il piacere e la tristezza, io ti <tei:lb/>            lascierò nell'animo e nel sangue <tei:lb/>            l'eterna memoria d'un amore fortis - <tei:lb/>            simo. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-153">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 2/9 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Pensandoti   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-154">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/8 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia,<tei:lb/>            la visita medica non ha avuto esito buono <tei:lb/>            e le mie previsioni sono fallite completamen - <tei:lb/>            te, le mie speranze si sono subitamente <tei:lb/>            dissipate come fumo al vento. <tei:lb/>            Perquanto riesca confortevole dal lato <tei:lb/>            salutare la soluzione da un deperimen -  <tei:lb/>            to organico, contrasta il senso dell' op - <tei:lb/>            portunità, e fa fallire la dolce visio - <tei:lb/>            ne di un breve soggiorno presfo <tei:lb/>            di te. <tei:lb/>            Oliva cara sono molto dispiaciuto <tei:lb/>            di non esfere riuscito nell'intento, e <tei:lb/>            mi rimprovero acerbamente l'impetuo- <tei:lb/>            sità avuta nel palesarti le mie speranze. <tei:lb/>            Non avrei voluto gettare il tuo cuore in un <tei:lb/>            ansia alternativa di speranze e di dubbi, <tei:lb/>            dovevo tacerti tutto e riserbare per me le peno - <tei:lb/>            se oscillazioni dell'inferno. Perdonami. <tei:lb/>            Non dispero però di correre da te sia pure <tei:lb/>            per poche ore, per pochi momenti bastevoli.</tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            a ripagarti dell'ultima illusione e ad esprimerti il mio grande <tei:lb/>            e purisfimo amore. </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-155">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 30/8 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimamente    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-156">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 2/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Cordialisfimi saluti <tei:lb/>            aff si a tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Antonietta Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-157">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 31/8 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille affettuosità</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-158">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 31/8 - 1917 -</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ardentisfimo </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            C.Giris </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-159">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/9 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Un pensiero affettuoso </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-160">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/9 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Pensandoti   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-161">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/9 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille saluti a tutti    </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Scricta serena</tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent. Sig.na  <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-162">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Ravenna 5 settembre 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro"/>
+                  <tei:p type="fronte"/>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-163">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S.Felice lì 27/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Sempre tuo </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-164">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 18/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            ho fatto fermo proponimento di  <tei:lb/>            studiare e mi andrò tracciando<tei:lb/>            un programma che posfa avere un <tei:lb/>            buon esito. Sai voglio proprio stu - <tei:lb/>            diare fermamente il corpo morto. <tei:lb/>            Sarai tu, mia buona Oliva che ci <tei:lb/>            scapiterai un pochino, ma non <tei:lb/>
+                     <tei:gap reason="illegible"/> un ritaglio di tempo sia <tei:lb/>            pure breve lo concederò a te e poi <tei:lb/>            e poi che fa ? tu sai, tu come <tei:lb/>            sei ormai quanto il mio cuore <tei:lb/>            ti abbia sempre presente, quanto <tei:lb/>            e come io pensa a te e i miei <tei:lb/>            sentimenti tutto risentano del <tei:lb/>            tuo fermisfimo e grande amore. <tei:lb/>            Ho bisogno di parole buone come <tei:lb/>            un bambino <tei:gap reason="illegible"/> tanto <tei:lb/>            un bacio soavisfimo </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-165">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 26/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ardentisfimi </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-166">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 27/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-167">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/10 - 1917 </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti aff si a <tei:lb/>            tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-168">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 17/4 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-169">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 25/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            il 1 ottobre alle ore 16 dovrò <tei:lb/>            subire la visita medica collegiale. <tei:lb/>            Ti asficuro che farò del mio meglio <tei:lb/>            per non dispiacerti per dimostrar - <tei:lb/>            ti ancora quanto il tuo dolcisfi - <tei:lb/>            mo amore sia forte in me. <tei:lb/>            Sai ti telegraferò subito il <tei:lb/>            risultato specialmente se è <tei:lb/>            ottimo per levare te pure dalle <tei:lb/>            spine d'un ansia opprimen - <tei:lb/>            te. Ti amo sempre appasfio - <tei:lb/>            natamente con tutte le forze <tei:lb/>            del mio animo, con tutto <tei:lb/>            l'affetto del mio cuore. <tei:lb/>            Saluti a tutti <tei:lb/>            un bacio soavisfimo <tei:lb/>            prego d'inviarmi l'indirizzo della giovinetta </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-170">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 18/11 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            Accetta un bacio lungo lungo che <tei:lb/>            ti porta tutto l'ardore e la purezza <tei:lb/>            dei mie sentimenti, tutti i miei più <tei:lb/>            forti e nobili sentimenti, il mio <tei:lb/>            grande amore eterno. <tei:lb/>            Qui non ho un momento di tragua<tei:lb/>            di riposo, pur tuttavia le mie <tei:lb/>
+                     <tei:gap reason="illegible"/> non sono troppe limitandosi <tei:lb/>            ad una sola, indistruttibile che non <tei:lb/>            ammette attenuanti e tu la conosci <tei:lb/>            tu lo sai Oliva mia. <tei:lb/>            Basta, i tempi miglioreranno <tei:lb/>            e io sarò felice della tua sola <tei:lb/>            felicità. Il tuo bell'amore coro - <tei:lb/>            nerà di gioie la mia vita e con <tei:lb/>            questa speranza attendo e spero. </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Ti prego di salutarmi con <tei:lb/>            molto affetto tua mamma che <tei:lb/>            sempre partecipa alle nostre gioie <tei:lb/>            un soavisfimo bacio e mille carezze dolci. </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-171">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-172">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Serio affronto... solo. <tei:lb/>            Un senso di nostalgia mi asfale <tei:lb/>            e mi dilania il cuore. <tei:lb/>            Perchè non con te, sempre?<tei:lb/>            La notte, il giorno così vuote <tei:lb/>            sono un peso mortali... <tei:lb/>            Quando?... La speranza si prende <tei:lb/>            gioco di me. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-173">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 1/7 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affetuosamente ti <tei:lb/>            ricordo. Saluti a tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na<tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-174">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S. Felice 8/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Intensi pensieri.<tei:lb/>            Verace e profondo affetto.</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-177">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 10/11 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            non stare in ansia per me, te ne prego. <tei:lb/>            Sai bene che io ho con fervore abbrac - <tei:lb/>            ciata la tua sola ed unica causa e mille <tei:lb/>            più mi smuoverà da tale proposito. <tei:lb/>            I <tei:gap reason="illegible"/> entusiastici, e qualunque pensiero <tei:lb/>            che posfa comunque turbare la tua forza, <tei:lb/>            inquietare la tua anima buona, saranno <tei:lb/>            da me bandita al dolcisfimo ricordo<tei:lb/>            del nostro purisfimo amore, per l'eterna <tei:lb/>            fede del nostro affetto e con la nostra <tei:lb/>            visione d'un avvenire felice, adesso<tei:lb/>            delle sfumature più sante e più perfette <tei:lb/>            sboccianti spontanee e rigogliosi dai<tei:lb/>            nostri cuori già tante volte frenati <tei:lb/>            dal dolore e dalle disavventure.  <tei:lb/>            Oliva cara, ti penso sempre con crescente <tei:lb/>            affetto e con infinita pasfione. <tei:lb/>            Vorrei abbandonarmi nelle tue amorose <tei:lb/>            braccia, sul tuo cuore palpitante e dirti <tei:lb/>            amore t'amo in eterno. <tei:lb/>            Un bacio </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Ti prego di salutarmi tanto <tei:lb/>            tanto affetuosamente <tei:lb/>            tutti.</tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-178">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 16/11 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricordandoti </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            affettuosi saluti a <tei:lb/>            tutti </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-179">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 11/11 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Un saluto affettuoso<tei:lb/>            a tutti </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-180">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/12 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimamente </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-181">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 7/12 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille pensieri affettuosi  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-182">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 3/11 - 17 - </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva, <tei:lb/>            soffro orribilmente. è un malesfere <tei:lb/>            inesprimibile. Una intollerabile indif - <tei:lb/>            ferenza verso tutte le cose suscita la mia <tei:lb/>            infelicità e mi sento cattivo, perverso <tei:lb/>            anche agli occhi tuoi. <tei:lb/>            Come comunicarti quella tranquillità <tei:lb/>            che manca a me stesfo? <tei:lb/>            Ora che ti arriva quell'istinto, quel <tei:lb/>            conforto che sempre hai sperato da me <tei:lb/>            tu mi tacci inesorabilmente per carne - <tei:lb/>            fice dell'animo tuo e non fai <tei:lb/>            che aggravare quello stato di cose <tei:lb/>            che pesa miserabilmente sul mio <tei:lb/>            capo. Io non imploro, non preten - <tei:lb/>            do, non desidero nulla, soffro solo <tei:lb/>            nell'impotenza di operare secondo <tei:lb/>            i miei fini per amarti come il mio <tei:lb/>            amore furiosamente pretende. <tei:lb/>            Sono insensato pretendo troppo e <tei:lb/>            amareggio la mia vita, e quel che più  <tei:lb/>            mi addolora la tua. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-183">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 10/12 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Tutto l'affetto e i miei <tei:lb/>            pensieri  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-184">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 13/12 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ardentisfimi ed affettuosi    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-185">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 14/12 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            probabilmente per l'anno di grazia non <tei:lb/>            ci rivedremo più. Sarebbe lieto evento e propi - <tei:lb/>            ziatore di altri migliore il poter trascorrere tuo <tei:lb/>            la prima giornata dell'anno, farò del mio<tei:lb/>            meglio per riuscirvi, chisfà. Non so se sei <tei:lb/>            frutto della mia immaginazione, o una indi -<tei:lb/>            scutibile verità, ma da un tempo a questa <tei:lb/>            parte non ho benigna la fortuna, spero che <tei:lb/>            allo spirare di questo anno si muti lo squal -<tei:lb/>            lido scenario della mia vita. Sempre scontento, <tei:lb/>            non evvero Oliva, è un veleno sottile sottile <tei:lb/>            indistruttibile. Quando si è lontano da <tei:lb/>            te, quando non si beve l'antidoto del -<tei:lb/>            l'amore purisfimo, inebriante, esilerante<tei:lb/>            non si può a meno <tei:gap reason="illegible"/> di malumore.  <tei:lb/>            Ti voglio bene bene Oliva mia e tu non  <tei:lb/>            sai ancora quanto, un bene pazzo del <tei:lb/>            cuore, dell'anima. è un soave profumo <tei:lb/>            delicato, primaverile che sola da ma<tei:lb/>            nascosto senso indefinibile di vita e <tei:lb/>            di felicità. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-186">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 14/12 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosamente sempre   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-188">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 23/11 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mia cara Oliva, <tei:lb/>            non c'è nulla che possa turbarmi  <tei:lb/>            all'infuori dell'insistente pensiero del <tei:lb/>            nostro amore incompleto, spoglio di <tei:lb/>            quelle tante deliziose e soavisfime  <tei:lb/>            che costituiscono il completamento <tei:lb/>            del sentimento, l'ardore della fiamma <tei:lb/>            il profumo del fiore. <tei:lb/>            L'intima urgenza, la seguente <tei:gap reason="illegible"/>
+                     <tei:lb/>            d'affetto e chiusa qui nel mio <tei:lb/>            cuore. Oliva, Oliva, voglio amar - <tei:lb/>            ti sempre eternamente di quest'amore  <tei:lb/>            appasfionato, crudele sempre quando <tei:lb/>            vive isolato in uno squallido deserto<tei:lb/>            di uomini e di case.<tei:lb/>            Sei tu la mia sola vita, tu e solo <tei:lb/>            con te mi sento forte. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-189">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 27/11 - 17</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mia cara Oliva, <tei:lb/>            sei cattiva dicendo che le tue lettere mi <tei:lb/>            annoiano, sostenendo che le mie sono <tei:lb/>            volate d'una lieve indifferenza. <tei:lb/>            Non sono false le tue parole il balsamo<tei:lb/>            più dolce alla mia costante melanconia, <tei:lb/>            al mio pesfimismo, al mio dolore? <tei:lb/>            E nel dolore sento maggiormente la <tei:lb/>            forza dell'amore che mi spinge a <tei:lb/>            perseverare ed aspettare! Oliva <tei:lb/>            Oliva mia, è questa una grande forza?<tei:lb/>            Si, si deve vincere quando si ha tanto <tei:lb/>            fuoco nell'anima, si deve vincere su <tei:lb/>            la verità, su l'amore, su quel delicato <tei:lb/>            sentimento che fa forti le anime <tei:lb/>            entusiasma i cuori. <tei:lb/>            Io t'amo Oliva mia, t'amo e non <tei:lb/>            farò come tu mi chiedi, t'amo cieca - <tei:lb/>            mente nella fiducia che gli eventi <tei:lb/>            ci siano favorevoli e congiungano i nostri <tei:lb/>            cuori eternamente. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-191">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/12 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia t'amo con tutta la pasfione <tei:lb/>            dell'animo mio d'un amore purisfimo <tei:lb/>            odoroso come i petali di un candido fiore.  <tei:lb/>            T'amo forte forte come palpita il mio <tei:lb/>            cuore per la vita e l'eternità. <tei:lb/>            Un bacio soavisfimo.  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-192">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 30/6 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Un dolce pensiero. <tei:lb/>            Affettuosamente tuo   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-194">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 17/1 - 1918 - </tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            non credere troppo vicino il giorno della revisione delle <tei:lb/>            visite, poi non c'è da disperarti, ho ferma fiducia che <tei:lb/>            tutto andrà bene. Sai che ti voglio tanto tanto bene <tei:lb/>            e non desidero che il tuo purisfimo amore, quindi <tei:lb/>            come potrei recardi del dolore? Oliva, Oliva mia <tei:lb/>            il tuo Giovannino t'ama mille vole più di <tei:lb/>            se stesfo, con ardente pasfione, con tutte le energie <tei:lb/>            dell'animo, con un folle trasporto di infinite <tei:lb/>            dolcezze, di tranquilla soavità che sommerge <tei:lb/>            in un baratro nero nero ogni altro mio desiderio <tei:lb/>            un bacio affettuoso </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-195">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine lì 6/3 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva, <tei:lb/>            ti scrivo questa mattina presto, per - <tei:lb/>            chè dispero di poterlo fare dopo.  <tei:lb/>            Devo trasferirmi con tutta la compa - <tei:lb/>            gnia in una località denominata<tei:lb/>            Carlo, poco lunghi da Formigine. <tei:lb/>            Tuttavia sono sempre le stesfe secca -<tei:lb/>            ture le solite banalità che mi fanno <tei:lb/>            proprio male asfai. Per ora non ap - <tei:lb/>            postare nessun mutamento al <tei:lb/>            mio indirizzo, giacchè temo di dovermi <tei:lb/>            muovere ancora. Per questi pochi gior - <tei:lb/>            ni mandare il mio attendente su la <tei:lb/>            posta o mi adopererò io stesfo per <tei:lb/>            averla. Perdonami questo mutabilità.  <tei:lb/>            Amami tanto tanto, scrivimi <tei:lb/>            molto, solo le tue lettere mi dona - <tei:lb/>            no la sensazione della vita. <tei:lb/>            E il tuo ricordo esalta i miei<tei:lb/>            sentimenti più forti e più <tei:lb/>            belli. Un bacio </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-196">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S.F. lì 25/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            c'è una recrudescenza di freddo <tei:lb/>            pungente quasi lancinante. <tei:lb/>            Mi pare che sia tutto tetro, infini - <tei:lb/>            tamente, il paese, l'aria, la campagna. <tei:lb/>            Il cielo cambia di colore, tramutando <tei:lb/>            la sua tranquillità in <tei:gap reason="illegible"/> due<tei:lb/>            o tre volte al giorno. Tutto ciò <tei:lb/>            esaspera la monotona tristezza del - <tei:lb/>            l'anima. Un ultimo repentino <tei:lb/>            sblazo di temperatura mi ha ingenera - <tei:lb/>            ta la febbre ed un molesto dolor di capo. <tei:lb/>            Mi sono svegliato solo nella mia <tei:lb/>            camera, lo credi, no ho più i miei <tei:lb/>            pensieri, v'ha invece, un vuoto che <tei:lb/>            addormenta. <tei:lb/>            Ieri ti pensai constantemente tutta <tei:lb/>            sera, oltre. A volte l'immagina - <tei:lb/>            zione viva e ardente appare.  <tei:lb/>            Ricordami sempre ed <tei:gap reason="illegible"/>
+                     <tei:lb/>            tanto tanto, come io ti voglio bene  <tei:lb/>            per il purisfimo amore che ti porto. </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-198">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 13/2 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Appasfiontisfimo    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-199">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 13/II - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Pensarti costantemente <tei:lb/>            con tenero affetto   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-201">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine lì 1/3 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, quando mi coglie tristezza tetra <tei:lb/>            come altra notte, sento acutissimo<tei:lb/>            tutto il dolore d'un amore soffer - <tei:lb/>            to nel cuore e nell'anima che non <tei:lb/>            può sbocciare al sole nascente, non <tei:lb/>            scaldarsi alla fiamma dolcezza del <tei:lb/>            tramonto, non espandersi non <tei:lb/>            obligarti all'affetto, ai tuoi <tei:gap reason="illegible"/>
+                     <tei:lb/>            alle più piccole, pallide e rosee, ardenti <tei:lb/>            e luminose sfumature del sentimento. <tei:lb/>            Tu mi manchi affannatamente, tu <tei:lb/>            sei lontana, lontana, che fai? Che <tei:lb/>            pensi? Non senti un grido d'amo - <tei:lb/>            re che rompe dal petto mio e <tei:lb/>            ti invoca in un anelito posfente  <tei:lb/>            di vita, di bene, di felicità, di bontà ?<tei:lb/>            Che fai tu ora? Dove sei? Perchè <tei:lb/>            non mi è data la suprema gioia <tei:lb/>            della vita degli occhi tuoi, del fremito <tei:lb/>            delle tue carezze? T'amo? Amami!!...</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-202">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine l'12/3 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            è un radioso mattino di prima - <tei:lb/>            vera, rallegrato dal dolcisfimo can - <tei:lb/>            to degli uccelletti. C'è tanta sere - <tei:lb/>            nità in cielo, tanta aria pura, <tei:lb/>            tanto silenzio che domina sulla <tei:lb/>            sconfinata pianura emiliana. <tei:lb/>            E una serenità mistica che affer - <tei:lb/>            ra e trasporta gli animi in  <tei:lb/>            un mondo <tei:gap reason="illegible"/> di sogni <tei:lb/>            e di rosee illusioni. Tutto è bello <tei:lb/>            tutto è gioia, tutto è ridente.  <tei:lb/>            è un lampo di poesia che abbar -<tei:lb/>            baglia e si dilegua. Tu non mi <tei:lb/>            sei vicina che nel pensiero, sempre <tei:lb/>            certamente, i soldati qui re - <tei:lb/>            clamano la mia presenza. Dovreb -<tei:lb/>            be cancellare dal mio cuore  <tei:lb/>            gli aneliti più cari, i desideri più a -<tei:lb/>            cuti: .. poi tutto cade nel normale <tei:lb/>            timore della vita... ma il mare non tace e t'amo </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-203">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine lì 8/3 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva, <tei:lb/>            ho tante, tante cose da dirti, ma ho <tei:lb/>            l'anima ricolma. Nè oggi, nè domani <tei:lb/>            potrò dar sfogo all'esuberanza dei miei <tei:lb/>            sentimenti, dei miei pensieri. Domani <tei:lb/>            ti invierò solo un breve saluto da <tei:lb/>            Sassuolo, un pensiero represfo dalla <tei:lb/>            preponderanza inesorabile delle ma - <tei:lb/>            terialità militari. Quanto bramerei <tei:lb/>            poterti confidare tutto l'amor mio, <tei:lb/>            poter scambiare con te tante <tei:lb/>            piccole gioie morali che non <tei:lb/>            sono che scintille d'un immenso <tei:lb/>            ardore. Quanto ti penso! Con che <tei:lb/>            tenero affetto, con devota costanza. <tei:lb/>            Le due ultime lettere, mi hanno <tei:lb/>            dato da pensare molto, e vorrò rispon - <tei:lb/>            derti a lungo commentando tutti <tei:lb/>            i miei pensieri, tutti i miei sforzi <tei:lb/>            per dimostrati come l'amore <tei:lb/>            mio si tenga lontano da certe <tei:lb/>            considerazioni e come trovi na - <tei:lb/>            turale riscontro col tuo. <tei:lb/>            Saluti t'amo fortisfimamente appassionatamente </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-204">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine lì 24/3 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia <tei:lb/>            è terminata finalmente una intera settimana <tei:lb/>            di lavoro, lavoro e preparazione che richiede tutta l'attività, <tei:lb/>            tutte le energie che si dispongono, lavoro che non risparmia <tei:lb/>            un minuto, che ti segue da mattina a sera. Ovunque tu <tei:lb/>            vada, ovunque tu ti presenti. é da molto tempo che non <tei:lb/>            ricordo una di quei felici raccoglimenti dell'animo che <tei:lb/>            giungono sino alla stagione del pensiero, tanto recupero <tei:lb/>            nel corso della vita, tanto gradito per la tranquillità del cuore,<tei:lb/>            la serenità dello spirito. Il pensiero di te non è neglet-<tei:lb/>            to in fondo all'anima, ma freme animato da una  <tei:lb/>            forza misteriosa che vorrebbe <tei:gap reason="illegible"/> tanti ostacoli, che <tei:lb/>            vorrebbe raggiungere uno stato tanto incoraggiato dai miei <tei:lb/>            sentimenti, che vorrebbe forse all'amore dedicato tutte le <tei:lb/>
+                     <tei:gap reason="illegible"/> della mia vita, poi vuoi vivere realmente. <tei:lb/>            Un bacio fortisfimo </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-205">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine lì 24/3 – 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            La Pasqua mi sia d’augurio per <tei:lb/>            una buona visita, una buona visita <tei:lb/>            mi sia presagio per una buona Pasqua. <tei:lb/>            Il 31 del mese avrò la visita. <tei:lb/>            Baci affettuosisfimi tanti tanti</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>Tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-207">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille pensieri tutti  </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-208">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 27/9 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Sempre il tuo   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-209">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ricordandoti    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-210">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Di passaggio da Modena <tei:lb/>            Saluti aff si     </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-211">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 5/4 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Sempre a te    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-212">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S. Felice lì 5/5 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Ti giunga la voce d'un <tei:lb/>            affetto che non può <tei:lb/>            mai estinguersi    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-213">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S. Felice lì 9/5 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Mille pensieri affet -<tei:lb/>            tuosi    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-214">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 30/5 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            domani ti parlerò di tante cose <tei:lb/>            buone e belle che ti fanno pia - <tei:lb/>            cere, ti parlerò dei miei studi <tei:lb/>            della mia vita, dell'animo mio <tei:lb/>            oggi no è la vigilia è il <tei:lb/>            giorno che precorre il <tei:gap reason="illegible"/>
+                     <tei:lb/>            delle pasfioni, della fede, della <tei:lb/>            volontà. <tei:lb/>            Domani ti voglio spedire qual - <tei:lb/>            che cosa che ti ricordi quel giorno, <tei:lb/>            qualche cosa di indelebile che nell'av - <tei:lb/>            venire ricordandoti di quello, tu posfa <tei:lb/>            ripensare al giorno in cui ti fu dona - <tei:lb/>            to, al giorno in cui il tuo Giovannino <tei:lb/>            ha voluto amarti. <tei:lb/>            Un bacio </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-216">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S. Felice lì 6/5 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Un solo pensiero in<tei:lb/>            mio cuore   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-217">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 24/10 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti aff si a tutti   </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-218">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 24/10 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            le tue buone parole, il tuo ricordo affettuoso <tei:lb/>            mi sono tanto d'aiuto. è il tuo amore <tei:lb/>            il centro vitale delle mie aspirazioni, la promes - <tei:lb/>            sa delle mie gioie, la plaestra dei miei sacrifi - <tei:lb/>            ci ed io Oliva mia te ne sono riconoscente <tei:lb/>            ricambiando con pari affetto, con ardente <tei:lb/>            amore purisfimo, con forza di sentimenti, <tei:lb/>            in eterno </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Sii buona sempre <tei:lb/>            Un bacio </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-219">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 1/11 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            soffro molto per non averti vicino, <tei:lb/>            non sentire la voce affettuosa del tuo cuore <tei:lb/>            dirmi tante cose belle. Io sono stanco <tei:lb/>            di vivere in questa acida atmosfera, senza <tei:lb/>            il conforto diretto di una persona cara e <tei:lb/>            quando il mio pensiero pende a consi - <tei:lb/>            derare la gravità dal momento, il possi -<tei:lb/>            bile avvennire, sento mancarmi ogni speran -<tei:lb/>            za. Oliva, Oliva mia, mi dispiace asfai <tei:lb/>            della falsa interpretazione che hai dato <tei:lb/>            alla mia lettera, perchè dici che non <tei:lb/>            t'amo? Quando ogni mio pensiero <tei:lb/>            è tuo, ogni mio affetto i tuo, tutto <tei:lb/>            l'amor mio purisfimo, ardente t'ap - <tei:lb/>            partiene ? Vuoi forse che rinneghi <tei:lb/>            tutto? Vuoi che rimanendo (solo per <tei:lb/>            te) inattivo sopporti ogni altro senti - <tei:lb/>            mento che non sia tuo? </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            Ti asficuro che farò ogni pos - <tei:lb/>            sibile sforzo pur di adempiere <tei:lb/>            alle promesfe fattoti. <tei:lb/>            Amami, amami molto. <tei:lb/>            Io ti voglio mia. </tei:p>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-220">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Modena lì 28/10 - 1917</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Affettuosisfimi    </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig.na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58<tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-221">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Ferrara 12-5-1916</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Saluti affettuosi<tei:lb/>            per tutti     </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giuseppe">Giuseppe</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Signorina <tei:lb/>            Antonietta Turtura <tei:lb/>            Via Girolamo Rossi 58 <tei:lb/>            Ravenna</tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-224">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            S. Felice lì 27/4 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva mia, <tei:lb/>            trovarmi da tre giorni a letto <tei:lb/>            con febbre e forte catarro bron - <tei:lb/>            chiale, domani tenterò di alzarmi.  <tei:lb/>            Ormai la fase acuta è pasfata.<tei:lb/>            Qui in questo <tei:gap reason="illegible"/> paese respira  <tei:lb/>            cattiva aria per me e forse anche <tei:lb/>            per molti altri, piove, piove e piove <tei:lb/>            sempre. Mi sento tanto stanco <tei:lb/>            e avvilito, come non mai ho  <tei:lb/>            la nostalgia di tante cose belle e <tei:lb/>            il desiderio d'amore purisfimo, <tei:lb/>            d'un tuo sguardo, d'un tuo sospiro.  <tei:lb/>            Baci </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-225">
+               <tei:opener>
+                  <tei:dateline/>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Gentilisfima, oggi <tei:lb/>            stesso la sua lettera è stata <tei:lb/>            portata da me a destinazio - <tei:lb/>            ne. Non ho però potuto confe - <tei:lb/>            rire, come avrei desiderato<tei:lb/>            col destinatario, che tornò <tei:lb/>            a Brescia. Il <tei:gap reason="illegible"/> che </tei:p>
+                  <tei:p type="fronte">
+                     <tei:lb/>            mi ha ricevuto, mi ha assicura - <tei:lb/>            to che saranno fatti i passi del<tei:lb/>            caso e possiamo sperar bene. <tei:lb/>            Spero viderle presto. Intanto migliori saluti  </tei:p>
+               </tei:div>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Signorina <tei:lb/>            Oliva Coliola <tei:lb/>            Via Gerolamo Rossi <tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-226">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Guiglia lì 8/6 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Oliva cara, questa <tei:lb/>            mane ci siamo alzati per <tei:lb/>            tempo a godere un alta <tei:gap reason="illegible"/>
+                     <tei:lb/>            per opera d'un sole tutto per <tei:lb/>
+                     <tei:gap reason="illegible"/> e era inghirlandato dalle <tei:lb/>            vette dei monti. Abbiamo<tei:lb/>            camminato tanto e siamo <tei:lb/>            giunti tanto stanchi in <tei:lb/>
+                     <tei:gap reason="illegible"/>ridente passo. <tei:lb/>            Il mio pensiero è con te </tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>
+                  <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+   <tei:TEI>
+      <tei:text>
+         <tei:body>
+            <tei:div type="retro" xml:id="cartolina_7694-227">
+               <tei:opener>
+                  <tei:dateline>
+                     <tei:lb/>
+                     <tei:s>            Formigine lì 26/3 - 1918</tei:s>
+                  </tei:dateline>
+               </tei:opener>
+               <tei:div type="postcard-body">
+                  <tei:p type="retro">
+                     <tei:lb/>            Auguri fervidifimo per <tei:lb/>            la prosfima Pasqua <tei:lb/>            Pensami</tei:p>
+                  <tei:p type="fronte"/>
+               </tei:div>
+               <tei:closer>
+                  <tei:lb/>Tuo <tei:signed>
+                     <tei:persName>
+                        <tei:forename ref="Giovannino">Giovannino</tei:forename>
+                     </tei:persName>
+                  </tei:signed>
+               </tei:closer>
+               <tei:div type="address-destination">
+                  <tei:p>
+                     <tei:address>
+                        <tei:addrLine>
+                           <tei:lb/>            Gent Sig na <tei:lb/>            Oliva Turtura <tei:lb/>            Via Girolamo Rosfi 58 <tei:lb/>            Ravenna </tei:addrLine>
+                     </tei:address>
+                  </tei:p>
+               </tei:div>
+            </tei:div>
+         </tei:body>
+      </tei:text>
+   </tei:TEI>
+</tei:teiCorpus>

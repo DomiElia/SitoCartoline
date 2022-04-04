@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE teiCorpus SYSTEM 'tei_all.dtd'> <!-- 'tei_allPROVA.dtd' -->
+<teiCorpus version="5.2" xmlns="http://www.tei-c.org/ns/1.0" 
+        xmlns:xi="http://www.w3.org/2001/XInclude">
+      <teiHeader>
+            <fileDesc>
+                  <!--contiene le informazioni relative al doc digitale-->
+                  <titleStmt>
+                        <!-- titolo dell'edizione digitale e responsabili-->
+                        <title>Cartoline della Grande Guerra - Edizione digitale</title>
+                        <respStmt xmlns="http://www.tei-c.org/ns/1.0">
+                              <resp>Trascritto da:</resp>
+                              <persName ref="list.xml#LR">Letizia Ricci</persName>
+                              <persName ref="list.xml#DE">Dominga Elia</persName>
+                        </respStmt>
+                        <respStmt xmlns="http://www.tei-c.org/ns/1.0">
+                              <resp>Ente di Appartenenza:</resp>
+                              <name type="comune">
+                                    Comune di
+                                    <placeName ref="list.xml#SP">La Spezia</placeName>
+                              </name>
+                        </respStmt>
+                  </titleStmt>
+                  <editionStmt xmlns="http://www.tei-c.org/ns/1.0">
+                        <!-- contiene informazion sull'edizione -->
+                        <edition>
+                              Studenti di Codifica di testi, Corso di Laurea Triennale di Informatica Umanistica, Università di Pisa
+                              <date when="2018">2018</date>
+                        </edition>
+                        <respStmt>
+                              <resp>Codificato da:</resp>
+                              <persName ref="list.xml#LR">Letizia Ricci</persName>
+                              <persName ref="list.xml#DE">Dominga Elia</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Supervisionato da:</resp>
+                              <persName ref="list.xml#AMDG">Angelo Mario Del Grosso</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Responsabile scientifico:</resp>
+                              <persName ref="list.xml#GP">Giacomo Paolicchi</persName>
+                              <persName ref="list.xml#ES">Enrica Salvatori</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Funzionario responsabile:</resp>
+                              <persName ref="list.xml#MR">Marzia Ratti</persName>
+                        </respStmt>
+                        <respStmt>
+                              <resp>Direttore dei Servizi Culturali:</resp>
+                              <persName ref="list.xml#MR">Massimiliano Curletto</persName>
+                        </respStmt>
+                  </editionStmt>
+                  <publicationStmt xmlns="http://www.tei-c.org/ns/1.0">
+                        <!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+                        <publisher>
+                              <orgName ref="list.xml#MECP"> Museo Civico Etnografico "Giovanni Podenzana" della Spezia</orgName>
+                        </publisher>
+                        <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+                        <availability>
+                              <p>Available under licence only</p>
+                        </availability>
+                        <date when="2019">2019</date>
+                        <distributor>
+                              <orgName ref="list.xml#LCD">
+                                    <choice>
+                                          <abbr>LabCD</abbr>
+                                          <expan>Laboratorio di Cultura Digitale</expan>
+                                    </choice>
+                              </orgName>
+                        </distributor>
+                        <address>
+                              <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+                              <addrLine>
+                                    <placeName ref="list.xml#PI">Pisa</placeName>
+                              </addrLine>
+                        </address>
+                  </publicationStmt>
+                  <notesStmt>
+                              <note>Edizione digitale delle cartoline della “Donazione Borghi” – Museo Civico Etnografico "Giovanni Podenzana" della Spezia. </note>
+                              <note>Tesi di Laurea di Dominga Elia per il corso di laurea di Informatica Umanistica, a.a. 2021-2022, relatori Enrica Salvatori e Angelo Mario Del Grosso. </note>
+                              <note>Progetto frutto della collaborazione tra il Museo Civico Etnografico "Giovanni Podenzana" della Spezia, il Laboratorio di Cultura Digitale dell’Università di Pisa, l’Istituto di Linguistica Computazionale del CNR e la Società Storica Spezzina.</note>
+                  </notesStmt>
+                  <sourceDesc>
+                              <msDesc>
+                                    <!-- descrizione del manoscritto -->
+                                    <msIdentifier>
+                                           <!-- info per identificare il manoscritto -->
+                                          <country ref="#lIT">Italia</country>
+                                          <settlement ref="#lSP">La Spezia (SP)</settlement>
+                                          <!-- collocazione specifica -->
+                                          <repository ref="#oMCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                                    </msIdentifier>
+                                    <history>
+                                          <p>
+                                                Il corpus delle cartoline della “Donazione Borghi” è formato da 227 cartoline artistiche acquisite nel 2018 in occasione della donazione di Rossana Borghi e conservate al Museo Civico Etnografico "G. Podenzana" della Spezia. Si tratta di cartoline scritte nel periodo della Prima Guerra Mondiale, tra il 1914 e il 1918. 
+                                          </p>
+                                          <p>       
+                                                Le cartoline si possono leggere su più livelli interpretativi: dal punto di vista storico-linguistico per quanto riguarda la qualità di informazioni che racchiudono, sia in un’ottica contenutistica, sia per un possibile studio sincronico e diacronico della lingua; dal punto di vista artistico per l’immagine riportata sul fronte ed infine anche per la storia dell’editoria ripercorsa attraverso le pubblicazioni delle case editrici e tipografie dell’epoca.
+                                          </p>
+                                          <p>    
+                                                Le immagini poste sul fronte sono per la maggior parte slegate dal contesto militare, fattore dovuto al processo di allontanamento e di banalizzazione della guerra. 
+                                                Nel corpus di cartoline le illustrazioni presentano principalmente riproduzioni di vere e proprie opere d’arte, alcune titolate e firmate. Le tipologie artistiche sono molteplici: alcune di carattere ritrattistico e soggettario come raffigurazioni del mezzobusto di eleganti donne aristocratiche, altre rappresentano luoghi e città: ad esempio dipinti di Venezia o fotografie della Spezia, talune sono di carattere fumettistico, altre ancora ritraggono o richiamano personaggi storici, mitologici o di carattere religioso. 
+                                                Poche hanno immagini con riferimento agli avvenimenti bellici, mentre la maggior parte rappresentano scene d’amore di due giovani amanti. 
+                                          </p>
+                                          <p>         
+                                                Il retro presenta la parte scritta dal mittente e la corrispondenza di questa raccolta riguarda in particolar modo Giovanni Coliola che scrive dal fronte all’amata, Oliva Turtura; alcune cartoline sono scritte anche da familiari o amici e hanno come destinatario Giovanni o la famiglia Turtura.
+                                                Tutte le cartoline spedite da Giovanni presentano timbri e francobolli per cui probabilmente si può dedurre che non fosse un soldato operativo sul campo di guerra, per i quali invece erano predisposte un determinato numero di cartoline in franchigia. 
+                                          </p> 
+                                          <p>       
+                                                Di particolare interesse è fare un accenno alla genealogia della famiglia, Giovanni Coliola era infatti un pronipote di Giovan Battista Culiolo, il cosiddetto Maggior Leggero, uno degli attendenti più fidati di Giuseppe Garibaldi. 
+                                                Oliva Turtura era la fidanzata di Giovanni, poi divenuta moglie, che raccolse tutte le cartoline in un album, le quali, grazie a Rossana Borghi, nipote di Giovanni, sono giunte al museo. 
+                                          </p>     
+                                    </history>
+                              </msDesc>
+                  </sourceDesc>
+            </fileDesc>
+            <encodingDesc xmlns="http://www.tei-c.org/ns/1.0">
+                  <p>
+                            Check sintattico con xmllint e validazione con schema dtd.
+                            Codifica seguendo il metodo "parallel-trascription".
+                            Codifica di base rispettando le forme e le informazioni lessicali, la punteggiatura e la sillabazione del documento,
+                            normalizzando il tutto per la codifica.
+                            Con appositi attributi è stata specificata anche la resa grafica di alcuni elementi.
+                        </p>
+            </encodingDesc>
+      </teiHeader>
+
+      <xi:include href="cartolineXMLTEI/cartolina001.xml" xpointer="cartolina_7694-001" />
+
+      <xi:include href="cartolineXMLTEI/cartolina002.xml" xpointer="cartolina_7694-002" />
+
+      <xi:include href="cartolineXMLTEI/cartolina003.xml" xpointer="cartolina_7694-003" />
+
+      <xi:include href="cartolineXMLTEI/cartolina004.xml" xpointer="cartolina_7694-004" /> 
+
+      <xi:include href="cartolineXMLTEI/cartolina005.xml" xpointer="cartolina_7694-005" />
+
+      <xi:include href="cartolineXMLTEI/cartolina006.xml" xpointer="cartolina_7694-006" />
+
+      <xi:include href="cartolineXMLTEI/cartolina007.xml" xpointer="cartolina_7694-007" />
+
+      <xi:include href="cartolineXMLTEI/cartolina008.xml" xpointer="cartolina_7694-008" />
+
+      <xi:include href="cartolineXMLTEI/cartolina009.xml" xpointer="cartolina_7694-009" />
+
+      <xi:include href="cartolineXMLTEI/cartolina010.xml" xpointer="cartolina_7694-010" />
+
+      <xi:include href="cartolineXMLTEI/cartolina011.xml" xpointer="cartolina_7694-011" />
+
+      <xi:include href="cartolineXMLTEI/cartolina012.xml" xpointer="cartolina_7694-012" />
+
+      <xi:include href="cartolineXMLTEI/cartolina013.xml" xpointer="cartolina_7694-013" />
+
+      <xi:include href="cartolineXMLTEI/cartolina014.xml" xpointer="cartolina_7694-014" />
+
+      <xi:include href="cartolineXMLTEI/cartolina015.xml" xpointer="cartolina_7694-015" />
+
+      <xi:include href="cartolineXMLTEI/cartolina016.xml" xpointer="cartolina_7694-016" />
+
+      <xi:include href="cartolineXMLTEI/cartolina017.xml" xpointer="cartolina_7694-017" />
+
+      <xi:include href="cartolineXMLTEI/cartolina018.xml" xpointer="cartolina_7694-018" />
+
+      <xi:include href="cartolineXMLTEI/cartolina019.xml" xpointer="cartolina_7694-019" />
+
+      <xi:include href="cartolineXMLTEI/cartolina020.xml" xpointer="cartolina_7694-020" />
+
+      <xi:include href="cartolineXMLTEI/cartolina021.xml" xpointer="cartolina_7694-021" />
+
+      <xi:include href="cartolineXMLTEI/cartolina022.xml" xpointer="cartolina_7694-022" />
+
+      <xi:include href="cartolineXMLTEI/cartolina023.xml" xpointer="cartolina_7694-023" />
+
+      <xi:include href="cartolineXMLTEI/cartolina024.xml" xpointer="cartolina_7694-024" />
+
+      <xi:include href="cartolineXMLTEI/cartolina025.xml" xpointer="cartolina_7694-025" />
+
+      <xi:include href="cartolineXMLTEI/cartolina026.xml" xpointer="cartolina_7694-026" />
+
+      <xi:include href="cartolineXMLTEI/cartolina027.xml" xpointer="cartolina_7694-027" />
+
+      <xi:include href="cartolineXMLTEI/cartolina028.xml" xpointer="cartolina_7694-028" /> 
+
+      <xi:include href="cartolineXMLTEI/cartolina029.xml" xpointer="cartolina_7694-029" />
+
+      <xi:include href="cartolineXMLTEI/cartolina030.xml" xpointer="cartolina_7694-030" />
+
+      <xi:include href="cartolineXMLTEI/cartolina031.xml" xpointer="cartolina_7694-031" />
+
+      <xi:include href="cartolineXMLTEI/cartolina032.xml" xpointer="cartolina_7694-032" />
+
+      <xi:include href="cartolineXMLTEI/cartolina033.xml" xpointer="cartolina_7694-033" />
+
+      <xi:include href="cartolineXMLTEI/cartolina034.xml" xpointer="cartolina_7694-034" />
+
+      <xi:include href="cartolineXMLTEI/cartolina035.xml" xpointer="cartolina_7694-035" />
+
+      <xi:include href="cartolineXMLTEI/cartolina036.xml" xpointer="cartolina_7694-036" />
+
+      <xi:include href="cartolineXMLTEI/cartolina037.xml" xpointer="cartolina_7694-037" />
+
+      <xi:include href="cartolineXMLTEI/cartolina038.xml" xpointer="cartolina_7694-038" />
+
+      <xi:include href="cartolineXMLTEI/cartolina039.xml" xpointer="cartolina_7694-039" />
+
+      <xi:include href="cartolineXMLTEI/cartolina040.xml" xpointer="cartolina_7694-040" />
+
+      <xi:include href="cartolineXMLTEI/cartolina041.xml" xpointer="cartolina_7694-041" />
+
+      <xi:include href="cartolineXMLTEI/cartolina042.xml" xpointer="cartolina_7694-042" />
+
+      <xi:include href="cartolineXMLTEI/cartolina043.xml" xpointer="cartolina_7694-043" />
+
+      <xi:include href="cartolineXMLTEI/cartolina044.xml" xpointer="cartolina_7694-044" />
+
+      <xi:include href="cartolineXMLTEI/cartolina045.xml" xpointer="cartolina_7694-045" />
+
+      <xi:include href="cartolineXMLTEI/cartolina046.xml" xpointer="cartolina_7694-046" />
+      
+      <xi:include href="cartolineXMLTEI/cartolina047.xml" xpointer="cartolina_7694-047" />
+
+      <xi:include href="cartolineXMLTEI/cartolina048.xml" xpointer="cartolina_7694-048" />
+
+      <xi:include href="cartolineXMLTEI/cartolina049.xml" xpointer="cartolina_7694-049" />
+
+      <xi:include href="cartolineXMLTEI/cartolina050.xml" xpointer="cartolina_7694-050" />
+
+      <xi:include href="cartolineXMLTEI/cartolina051.xml" xpointer="cartolina_7694-051" />
+
+      <xi:include href="cartolineXMLTEI/cartolina052.xml" xpointer="cartolina_7694-052" />
+
+      <xi:include href="cartolineXMLTEI/cartolina053.xml" xpointer="cartolina_7694-053" />
+
+      <xi:include href="cartolineXMLTEI/cartolina054.xml" xpointer="cartolina_7694-054" />
+
+      <xi:include href="cartolineXMLTEI/cartolina055.xml" xpointer="cartolina_7694-055" />
+
+      <xi:include href="cartolineXMLTEI/cartolina056.xml" xpointer="cartolina_7694-056" />
+
+      <xi:include href="cartolineXMLTEI/cartolina057.xml" xpointer="cartolina_7694-057" />
+
+      <xi:include href="cartolineXMLTEI/cartolina058.xml" xpointer="cartolina_7694-058" />
+
+      <xi:include href="cartolineXMLTEI/cartolina059.xml" xpointer="cartolina_7694-059" />
+
+      <xi:include href="cartolineXMLTEI/cartolina060.xml" xpointer="cartolina_7694-060" />
+
+      <xi:include href="cartolineXMLTEI/cartolina061.xml" xpointer="cartolina_7694-061" />
+
+      <xi:include href="cartolineXMLTEI/cartolina062.xml" xpointer="cartolina_7694-062" />
+
+      <xi:include href="cartolineXMLTEI/cartolina063.xml" xpointer="cartolina_7694-063" />
+
+      <xi:include href="cartolineXMLTEI/cartolina064.xml" xpointer="cartolina_7694-064" />
+
+      <xi:include href="cartolineXMLTEI/cartolina065.xml" xpointer="cartolina_7694-065" />
+
+      <xi:include href="cartolineXMLTEI/cartolina066.xml" xpointer="cartolina_7694-066" />
+
+      <xi:include href="cartolineXMLTEI/cartolina067.xml" xpointer="cartolina_7694-067" />
+
+      <xi:include href="cartolineXMLTEI/cartolina068.xml" xpointer="cartolina_7694-068" />
+
+      <xi:include href="cartolineXMLTEI/cartolina069.xml" xpointer="cartolina_7694-069" />
+
+      <xi:include href="cartolineXMLTEI/cartolina070.xml" xpointer="cartolina_7694-070" />
+
+      <xi:include href="cartolineXMLTEI/cartolina071.xml" xpointer="cartolina_7694-071" />
+
+      <xi:include href="cartolineXMLTEI/cartolina072.xml" xpointer="cartolina_7694-072" />
+
+      <xi:include href="cartolineXMLTEI/cartolina073.xml" xpointer="cartolina_7694-073" />
+
+      <xi:include href="cartolineXMLTEI/cartolina074.xml" xpointer="cartolina_7694-074" />
+
+      <xi:include href="cartolineXMLTEI/cartolina075.xml" xpointer="cartolina_7694-075" />
+
+      <xi:include href="cartolineXMLTEI/cartolina076.xml" xpointer="cartolina_7694-076" />
+
+      <xi:include href="cartolineXMLTEI/cartolina077.xml" xpointer="cartolina_7694-077" />
+
+      <xi:include href="cartolineXMLTEI/cartolina078.xml" xpointer="cartolina_7694-078" />
+
+      <xi:include href="cartolineXMLTEI/cartolina079.xml" xpointer="cartolina_7694-079" />
+
+      <xi:include href="cartolineXMLTEI/cartolina080.xml" xpointer="cartolina_7694-080" />
+
+      <xi:include href="cartolineXMLTEI/cartolina081.xml" xpointer="cartolina_7694-081" />
+
+      <xi:include href="cartolineXMLTEI/cartolina082.xml" xpointer="cartolina_7694-082" />
+
+      <xi:include href="cartolineXMLTEI/cartolina083.xml" xpointer="cartolina_7694-083" />
+
+      <xi:include href="cartolineXMLTEI/cartolina084.xml" xpointer="cartolina_7694-084" />
+
+      <xi:include href="cartolineXMLTEI/cartolina085.xml" xpointer="cartolina_7694-085" />
+
+      <xi:include href="cartolineXMLTEI/cartolina086.xml" xpointer="cartolina_7694-086" />
+
+      <xi:include href="cartolineXMLTEI/cartolina087.xml" xpointer="cartolina_7694-087" />
+
+      <xi:include href="cartolineXMLTEI/cartolina088.xml" xpointer="cartolina_7694-088" />
+
+      <xi:include href="cartolineXMLTEI/cartolina089.xml" xpointer="cartolina_7694-089" />
+
+      <xi:include href="cartolineXMLTEI/cartolina090.xml" xpointer="cartolina_7694-090" />
+
+      <xi:include href="cartolineXMLTEI/cartolina091.xml" xpointer="cartolina_7694-091" />
+
+      <xi:include href="cartolineXMLTEI/cartolina092.xml" xpointer="cartolina_7694-092" />
+
+      <xi:include href="cartolineXMLTEI/cartolina093.xml" xpointer="cartolina_7694-093" />
+
+      <xi:include href="cartolineXMLTEI/cartolina094.xml" xpointer="cartolina_7694-094" />
+
+      <xi:include href="cartolineXMLTEI/cartolina095.xml" xpointer="cartolina_7694-095" />
+
+      <xi:include href="cartolineXMLTEI/cartolina096.xml" xpointer="cartolina_7694-096" />
+
+      <xi:include href="cartolineXMLTEI/cartolina097.xml" xpointer="cartolina_7694-097" />
+
+      <xi:include href="cartolineXMLTEI/cartolina098.xml" xpointer="cartolina_7694-098" />
+
+      <xi:include href="cartolineXMLTEI/cartolina099.xml" xpointer="cartolina_7694-099" />
+
+      <xi:include href="cartolineXMLTEI/cartolina100.xml" xpointer="cartolina_7694-100" />
+
+      <xi:include href="cartolineXMLTEI/cartolina101.xml" xpointer="cartolina_7694-101" />
+
+      <xi:include href="cartolineXMLTEI/cartolina102.xml" xpointer="cartolina_7694-102" />
+
+      <xi:include href="cartolineXMLTEI/cartolina103.xml" xpointer="cartolina_7694-103" />
+
+      <xi:include href="cartolineXMLTEI/cartolina104.xml" xpointer="cartolina_7694-104" />
+
+      <xi:include href="cartolineXMLTEI/cartolina105.xml" xpointer="cartolina_7694-105" />
+
+      <xi:include href="cartolineXMLTEI/cartolina106.xml" xpointer="cartolina_7694-106" />
+
+      <xi:include href="cartolineXMLTEI/cartolina107.xml" xpointer="cartolina_7694-107" />
+
+      <xi:include href="cartolineXMLTEI/cartolina108.xml" xpointer="cartolina_7694-108" />
+
+      <xi:include href="cartolineXMLTEI/cartolina109.xml" xpointer="cartolina_7694-109" />
+
+      <xi:include href="cartolineXMLTEI/cartolina110.xml" xpointer="cartolina_7694-110" />
+
+      <xi:include href="cartolineXMLTEI/cartolina111.xml" xpointer="cartolina_7694-111" />
+
+      <xi:include href="cartolineXMLTEI/cartolina112.xml" xpointer="cartolina_7694-112" />
+
+      <xi:include href="cartolineXMLTEI/cartolina113.xml" xpointer="cartolina_7694-113" />
+
+      <xi:include href="cartolineXMLTEI/cartolina114.xml" xpointer="cartolina_7694-114" />
+
+      <xi:include href="cartolineXMLTEI/cartolina115.xml" xpointer="cartolina_7694-115" />
+
+      <xi:include href="cartolineXMLTEI/cartolina116.xml" xpointer="cartolina_7694-116" />
+
+      <xi:include href="cartolineXMLTEI/cartolina117.xml" xpointer="cartolina_7694-117" />
+
+      <xi:include href="cartolineXMLTEI/cartolina118.xml" xpointer="cartolina_7694-118" />
+
+      <xi:include href="cartolineXMLTEI/cartolina119.xml" xpointer="cartolina_7694-119" />
+
+      <xi:include href="cartolineXMLTEI/cartolina120.xml" xpointer="cartolina_7694-120" />
+
+      <xi:include href="cartolineXMLTEI/cartolina121.xml" xpointer="cartolina_7694-121" />
+
+      <xi:include href="cartolineXMLTEI/cartolina122.xml" xpointer="cartolina_7694-122" />
+
+      <xi:include href="cartolineXMLTEI/cartolina123.xml" xpointer="cartolina_7694-123" />
+
+      <xi:include href="cartolineXMLTEI/cartolina124.xml" xpointer="cartolina_7694-124" />
+
+      <xi:include href="cartolineXMLTEI/cartolina125.xml" xpointer="cartolina_7694-125" />
+
+      <xi:include href="cartolineXMLTEI/cartolina126.xml" xpointer="cartolina_7694-126" />
+
+      <xi:include href="cartolineXMLTEI/cartolina127.xml" xpointer="cartolina_7694-127" />
+
+      <xi:include href="cartolineXMLTEI/cartolina128.xml" xpointer="cartolina_7694-128" />
+
+      <xi:include href="cartolineXMLTEI/cartolina129.xml" xpointer="cartolina_7694-129" />
+
+      <xi:include href="cartolineXMLTEI/cartolina130.xml" xpointer="cartolina_7694-130" />
+
+      <xi:include href="cartolineXMLTEI/cartolina131.xml" xpointer="cartolina_7694-131" />
+
+      <xi:include href="cartolineXMLTEI/cartolina132.xml" xpointer="cartolina_7694-132" />
+
+      <xi:include href="cartolineXMLTEI/cartolina133.xml" xpointer="cartolina_7694-133" />
+
+      <xi:include href="cartolineXMLTEI/cartolina134.xml" xpointer="cartolina_7694-134" />
+
+      <xi:include href="cartolineXMLTEI/cartolina135.xml" xpointer="cartolina_7694-135" />
+
+      <xi:include href="cartolineXMLTEI/cartolina136.xml" xpointer="cartolina_7694-136" />
+
+      <xi:include href="cartolineXMLTEI/cartolina137.xml" xpointer="cartolina_7694-137" />
+
+      <xi:include href="cartolineXMLTEI/cartolina138.xml" xpointer="cartolina_7694-138" />
+
+      <xi:include href="cartolineXMLTEI/cartolina139.xml" xpointer="cartolina_7694-139" />
+
+      <xi:include href="cartolineXMLTEI/cartolina140.xml" xpointer="cartolina_7694-140" />
+
+      <xi:include href="cartolineXMLTEI/cartolina141.xml" xpointer="cartolina_7694-141" />
+
+      <xi:include href="cartolineXMLTEI/cartolina142.xml" xpointer="cartolina_7694-142" />
+
+      <xi:include href="cartolineXMLTEI/cartolina143.xml" xpointer="cartolina_7694-143" />
+
+      <xi:include href="cartolineXMLTEI/cartolina144.xml" xpointer="cartolina_7694-144" />
+
+      <xi:include href="cartolineXMLTEI/cartolina145.xml" xpointer="cartolina_7694-145" />
+
+      <xi:include href="cartolineXMLTEI/cartolina146.xml" xpointer="cartolina_7694-146" />
+
+      <xi:include href="cartolineXMLTEI/cartolina147.xml" xpointer="cartolina_7694-147" />
+
+      <xi:include href="cartolineXMLTEI/cartolina148.xml" xpointer="cartolina_7694-148" />
+
+      <xi:include href="cartolineXMLTEI/cartolina149.xml" xpointer="cartolina_7694-149" />
+
+      <xi:include href="cartolineXMLTEI/cartolina150.xml" xpointer="cartolina_7694-150" />
+
+      <xi:include href="cartolineXMLTEI/cartolina151.xml" xpointer="cartolina_7694-151" />
+
+      <xi:include href="cartolineXMLTEI/cartolina152.xml" xpointer="cartolina_7694-152" />
+
+      <xi:include href="cartolineXMLTEI/cartolina153.xml" xpointer="cartolina_7694-153" />
+
+      <xi:include href="cartolineXMLTEI/cartolina154.xml" xpointer="cartolina_7694-154" />
+
+      <xi:include href="cartolineXMLTEI/cartolina155.xml" xpointer="cartolina_7694-155" />
+
+      <xi:include href="cartolineXMLTEI/cartolina156.xml" xpointer="cartolina_7694-156" />
+
+      <xi:include href="cartolineXMLTEI/cartolina157.xml" xpointer="cartolina_7694-157" />
+
+      <xi:include href="cartolineXMLTEI/cartolina158.xml" xpointer="cartolina_7694-158" />
+
+      <xi:include href="cartolineXMLTEI/cartolina159.xml" xpointer="cartolina_7694-159" />
+
+      <xi:include href="cartolineXMLTEI/cartolina160.xml" xpointer="cartolina_7694-160" />
+
+      <xi:include href="cartolineXMLTEI/cartolina161.xml" xpointer="cartolina_7694-161" />
+
+      <xi:include href="cartolineXMLTEI/cartolina162.xml" xpointer="cartolina_7694-162" />
+
+      <xi:include href="cartolineXMLTEI/cartolina163.xml" xpointer="cartolina_7694-163" />
+
+      <xi:include href="cartolineXMLTEI/cartolina164.xml" xpointer="cartolina_7694-164" />
+
+      <xi:include href="cartolineXMLTEI/cartolina165.xml" xpointer="cartolina_7694-165" />
+
+      <xi:include href="cartolineXMLTEI/cartolina166.xml" xpointer="cartolina_7694-166" />
+
+      <xi:include href="cartolineXMLTEI/cartolina167.xml" xpointer="cartolina_7694-167" />
+
+      <xi:include href="cartolineXMLTEI/cartolina168.xml" xpointer="cartolina_7694-168" />
+
+      <xi:include href="cartolineXMLTEI/cartolina169.xml" xpointer="cartolina_7694-169" />
+
+      <xi:include href="cartolineXMLTEI/cartolina170.xml" xpointer="cartolina_7694-170" />
+
+      <xi:include href="cartolineXMLTEI/cartolina171.xml" xpointer="cartolina_7694-171" />
+
+      <xi:include href="cartolineXMLTEI/cartolina172.xml" xpointer="cartolina_7694-172" />
+
+      <xi:include href="cartolineXMLTEI/cartolina173.xml" xpointer="cartolina_7694-173" />
+
+      <xi:include href="cartolineXMLTEI/cartolina174.xml" xpointer="cartolina_7694-174" />
+
+      <xi:include href="cartolineXMLTEI/cartolina175.xml" xpointer="cartolina_7694-175" />
+
+      <xi:include href="cartolineXMLTEI/cartolina176.xml" xpointer="cartolina_7694-176" />
+
+      <xi:include href="cartolineXMLTEI/cartolina177.xml" xpointer="cartolina_7694-177" />
+
+      <xi:include href="cartolineXMLTEI/cartolina178.xml" xpointer="cartolina_7694-178" />
+
+      <xi:include href="cartolineXMLTEI/cartolina179.xml" xpointer="cartolina_7694-179" />
+
+      <xi:include href="cartolineXMLTEI/cartolina180.xml" xpointer="cartolina_7694-180" />
+
+      <xi:include href="cartolineXMLTEI/cartolina181.xml" xpointer="cartolina_7694-181" />
+
+      <xi:include href="cartolineXMLTEI/cartolina182.xml" xpointer="cartolina_7694-182" />
+
+      <xi:include href="cartolineXMLTEI/cartolina183.xml" xpointer="cartolina_7694-183" />
+
+      <xi:include href="cartolineXMLTEI/cartolina184.xml" xpointer="cartolina_7694-184" />
+
+      <xi:include href="cartolineXMLTEI/cartolina185.xml" xpointer="cartolina_7694-185" />
+
+      <xi:include href="cartolineXMLTEI/cartolina186.xml" xpointer="cartolina_7694-186" />
+
+      <xi:include href="cartolineXMLTEI/cartolina187.xml" xpointer="cartolina_7694-187" />
+
+      <xi:include href="cartolineXMLTEI/cartolina188.xml" xpointer="cartolina_7694-188" />
+
+      <xi:include href="cartolineXMLTEI/cartolina189.xml" xpointer="cartolina_7694-189" />
+
+      <xi:include href="cartolineXMLTEI/cartolina190.xml" xpointer="cartolina_7694-190" />
+
+      <xi:include href="cartolineXMLTEI/cartolina191.xml" xpointer="cartolina_7694-191" />
+
+      <xi:include href="cartolineXMLTEI/cartolina192.xml" xpointer="cartolina_7694-192" />
+
+      <xi:include href="cartolineXMLTEI/cartolina193.xml" xpointer="cartolina_7694-193" />
+
+      <xi:include href="cartolineXMLTEI/cartolina194.xml" xpointer="cartolina_7694-194" />
+
+      <xi:include href="cartolineXMLTEI/cartolina195.xml" xpointer="cartolina_7694-195" />
+
+      <xi:include href="cartolineXMLTEI/cartolina196.xml" xpointer="cartolina_7694-196" />
+
+      <xi:include href="cartolineXMLTEI/cartolina197.xml" xpointer="cartolina_7694-197" />
+
+      <xi:include href="cartolineXMLTEI/cartolina198.xml" xpointer="cartolina_7694-198" />
+
+      <xi:include href="cartolineXMLTEI/cartolina199.xml" xpointer="cartolina_7694-199" />
+
+      <xi:include href="cartolineXMLTEI/cartolina200.xml" xpointer="cartolina_7694-200" />
+
+      <xi:include href="cartolineXMLTEI/cartolina201.xml" xpointer="cartolina_7694-201" />
+
+      <xi:include href="cartolineXMLTEI/cartolina202.xml" xpointer="cartolina_7694-202" />
+
+      <xi:include href="cartolineXMLTEI/cartolina203.xml" xpointer="cartolina_7694-203" />
+
+      <xi:include href="cartolineXMLTEI/cartolina204.xml" xpointer="cartolina_7694-204" />
+
+      <xi:include href="cartolineXMLTEI/cartolina205.xml" xpointer="cartolina_7694-205" />
+
+      <xi:include href="cartolineXMLTEI/cartolina206.xml" xpointer="cartolina_7694-206" />
+
+      <xi:include href="cartolineXMLTEI/cartolina207.xml" xpointer="cartolina_7694-207" />
+
+      <xi:include href="cartolineXMLTEI/cartolina208.xml" xpointer="cartolina_7694-208" />
+
+      <xi:include href="cartolineXMLTEI/cartolina209.xml" xpointer="cartolina_7694-209" />
+
+      <xi:include href="cartolineXMLTEI/cartolina210.xml" xpointer="cartolina_7694-210" />
+
+      <xi:include href="cartolineXMLTEI/cartolina211.xml" xpointer="cartolina_7694-211" />
+
+      <xi:include href="cartolineXMLTEI/cartolina212.xml" xpointer="cartolina_7694-212" />
+
+      <xi:include href="cartolineXMLTEI/cartolina213.xml" xpointer="cartolina_7694-213" />
+
+      <xi:include href="cartolineXMLTEI/cartolina214.xml" xpointer="cartolina_7694-214" />
+
+      <xi:include href="cartolineXMLTEI/cartolina215.xml" xpointer="cartolina_7694-215" />
+
+      <xi:include href="cartolineXMLTEI/cartolina216.xml" xpointer="cartolina_7694-216" />
+
+      <xi:include href="cartolineXMLTEI/cartolina217.xml" xpointer="cartolina_7694-217" />
+
+      <xi:include href="cartolineXMLTEI/cartolina218.xml" xpointer="cartolina_7694-218" />
+
+      <xi:include href="cartolineXMLTEI/cartolina219.xml" xpointer="cartolina_7694-219" />
+
+      <xi:include href="cartolineXMLTEI/cartolina220.xml" xpointer="cartolina_7694-220" />
+
+      <xi:include href="cartolineXMLTEI/cartolina221.xml" xpointer="cartolina_7694-221" />
+
+      <xi:include href="cartolineXMLTEI/cartolina222.xml" xpointer="cartolina_7694-222" />
+
+      <xi:include href="cartolineXMLTEI/cartolina223.xml" xpointer="cartolina_7694-223" />
+
+      <xi:include href="cartolineXMLTEI/cartolina224.xml" xpointer="cartolina_7694-224" />
+
+      <xi:include href="cartolineXMLTEI/cartolina225.xml" xpointer="cartolina_7694-225" />
+
+      <xi:include href="cartolineXMLTEI/cartolina226.xml" xpointer="cartolina_7694-226" />
+
+      <xi:include href="cartolineXMLTEI/cartolina227.xml" xpointer="cartolina_7694-227" />
+
+</teiCorpus>

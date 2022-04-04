@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> sito 2.0 </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+        <script src="https://code.jquery.com/ui/1.11.1/jquery-ui.min.js"></script>
+        <link rel="stylesheet" href="https://code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css" />
+
+        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet" />
+        <link href="https://fonts.googleapis.com/css?family=Lato:300,400,700,900|Playfair+Display:400,700,900 :300,400" rel="stylesheet"/>
+
+        <link href="foglioStile.css" rel="stylesheet" type="text/css"></link>
+        <script src="javascript.js" type="text/javascript"></script>
+    
+        <script src = "saxon-js/SaxonJs2.rt.js"> </script> 
+        <script> 
+            window.onload = displayHome();
+        </script>
+    </head>
+    <body>
+        <!--MENU-->
+        <div id="top"></div>
+
+        <div id="bar"><img src="ext/logo.png" id="ImgMenu" alt="logo"></img>
+            <ul class="nav">
+                <li>
+                    <a href="#top"><p id="h" onclick ="displayHome()" >HOME</p></a> 
+                </li>
+                <li>
+                    <p id="c" onclick="displayCartoline()">LE CARTOLINE</p>  
+                </li>
+                <li>
+                    <p id="f" onclick="displayCerca()">CERCA NEL SITO</p> 
+                </li>
+                <li>
+                    <p id="a" onclick="displayInfo()">INFO</p>
+                </li>
+            </ul>
+        </div>
+
+        <div id="nav2" ><img src="ext/menu.png" id="ImgMenuMedia" alt="menu"/><img src="ext/logo.png" id="ImgMenu" alt="logo"></img>
+            <div id="menuDiscesa">
+                <div class="internoMC"><a href="#top"></a><p id="h" onclick ="displayHome()">HOME</p></div>
+                <div class="internoMC"><p id="c" onclick="displayCartoline()">LE CARTOLINE</p></div>
+                <div class="internoMC"><p id="f" onclick="displayCerca()">CERCA NEL SITO</p></div>
+                <div class="internoMC"><p id="a" onclick="displayInfo()">INFO</p></div>
+            </div>
+        </div>
+        
+        <!--HOME--> 
+        <div id ="home">
+            <div id="progressbar"><div class="progress-label">Loading...</div></div> 
+            <!--i due titoli-->
+            <div id ="title" class="sezione"> </div> 
+            <!--box di tutte le cartoline-->
+            <div id="dialog" class="sezione"><div id="dialog-content"></div></div>
+        </div>
+
+        <!--LE CARTOLINE-->
+        <div id ="lecartoline" class="sezione"> </div> 
+
+        <!--CERCA NEL SITO-->
+        <div id="cerca">  
+            <h2>Cerca</h2>
+            <fieldset>
+                <input type="radio" name="find" class="bottonC" id="titolo" onclick="clean3()">Titolo 
+                <input type="radio" name="find" class="bottonC" id="mittente" onclick="clean3()">Mittente
+                <input type="radio" name="find" class="bottonC" id="lemma" onclick="clean3()">Parola chiave
+              
+                <div class="finestra">
+                <div id="project-label" ></div>
+                  <input id="project" value=""><input type="hidden" id="project-id">
+                      <p id="project-description"></p> 
+                </div>
+            </fieldset>
+          </div>
+
+        <!--INFO-->
+        <div id ="info" class="sezione"> </div>
+
+        <!--LINK PAGINA HOME--> 
+        <div id ="meta" class="sezione"> </div> 
+        <div id="infocartolina" class="modal"></div> 
+        <div id="infotesto" class="sezione"> </div> 
+        <div id="infolink" class="sezione"> </div> 
+    </body>
+</html> 
+
