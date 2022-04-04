@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0"
+     xmlns:tei="http://www.tei-c.org/ns/1.0"
+     xml:id="cartolina_7694-103">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Vers les rives lointaines - Edizione digitale</title>
+         </titleStmt>
+         <publicationStmt><!-- contiene informazioni sulla pubblicazione e distribuzione del documento digitale -->
+            <publisher>
+               <choice>
+                  <abbr>Unipi</abbr>
+                  <expan instant="false">
+                                    Università di
+                                    <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+                  </expan>
+               </choice>
+            </publisher>
+            <pubPlace ref="list.xml#PI">Pisa</pubPlace>
+            <availability default="false">
+               <p part="N">Available under licence only</p>
+            </availability>
+            <date when="2019" instant="false">2019</date>
+            <distributor>
+               <orgName ref="list.xml#LCD" instant="false" full="yes">
+                  <choice>
+                     <abbr>LabCD</abbr>
+                     <expan instant="false">Laboratorio di Cultura Digitale</expan>
+                  </choice>
+               </orgName>
+            </distributor>
+            <address>
+               <addrLine>Laboratorio di Cultura Digitale - Università di Pisa</addrLine>
+               <addrLine>
+                  <placeName ref="list.xml#PI" instant="false" full="yes">Pisa</placeName>
+               </addrLine>
+            </address>
+         </publicationStmt>
+         <sourceDesc default="false"><!-- contiene informazoni relative alla fonte originale -->
+            <bibl type="postcard" default="false" status="draft">
+               <title>Vers les rives lointaines</title>
+               <date when="1913/09/27"> 1913/09/27</date>
+               <author>
+                  <persName ref="list.xml#DM"> D. Mastroianni  </persName>
+               </author>
+            </bibl>
+            <msDesc status="draft"><!-- descrizione del manoscritto -->
+               <msIdentifier><!-- info per identificare il manoscritto -->
+                  <country ref="list.xml#IT">Italia</country>
+                  <settlement ref="list.xml#SP">La Spezia (SP)</settlement>
+                  <!-- collocazione specifica -->
+                  <repository ref="list.xml#MCE">Museo Civico Etnografico "Giovanni Podenzana", Sezione dei cimeli garibaldini e della Prima Guerrra Mondiale</repository>
+                  <!-- codice identificativo -->
+                  <idno type="postcard_id">7694_103_001/002</idno>
+               </msIdentifier>
+               <!-- Informazioni sul contenuto della cartolina -->
+               <msContents>
+                  <summary>Cartolina Artistica</summary>
+                  <textLang mainLang="ita">Italiano</textLang>
+               </msContents>
+               <physDesc><!-- descrizione fisica del manoscritto -->
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <objectType>Cartolina</objectType>
+                           <material>Carta</material>
+                           <dimensions unit="cm">
+                              <height>9</height>
+                              <width>14</width>
+                           </dimensions>
+                           <stamp type="postmark">
+                              Tre timbri circolari neri, RAVENNA, parzialmente illeggibili 
+                           </stamp>
+                           <stamp type="postage">
+                              Due francobolli di colore verde da 5 centesimi
+                           </stamp>
+                        </support>
+                        <condition>Buono</condition>
+                     </supportDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>
+                        <p part="N">Il testo nel recto della cartolina appartiene alla mano di Giuseppe</p>
+                     </handNote>
+                     <handNote>
+                        <p part="N">Nell'angolo in alto a destra della parte superiore della
+                                        cartolina è presente un 103, numero di inventario della cartolina, aggiunto dal catalogatore
+                        </p>
+                     </handNote>
+                  </handDesc>
+               </physDesc>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc><!-- Descrizione delle azioni relative a un atto di corrispondenza -->
+         <correspDesc default="false">
+            <correspAction type="sent">
+               <persName ref="list.xml#GT" instant="false" full="yes"> Giuseppe Turtura </persName>
+            </correspAction>
+            <correspAction type="received">
+               <persName ref="list.xml#OT" instant="false" full="yes"> Oliva Turtura </persName>
+            </correspAction>
+         </correspDesc>
+         <!-- Info di classificazione del testo -->
+         <textClass default="false">
+            <keywords><!--soggettario-->
+               <term>Cartolina </term>
+               <!--tipologia-->
+               <term>Cartolina Artistica </term>
+               <!--descrizione-->
+               <term>Vers les rives lointaines</term>
+            </keywords>
+         </textClass>
+         <!-- Linguaggio usato nel testo -->
+         <langUsage default="false">
+            <language ident="it-IT" usage="98">Italiano del Novecento</language>
+         </langUsage>
+      </profileDesc>
+   </teiHeader>
+   <facsimile xml:id="cartolina_103"><!-- Definizione della superficie di scrittura in termini di uno spazio espresso attraverso un sistema di coordinate --><!-- FRONTE -->
+      <surface xml:id="fronte_postcard_103" type="fronte">
+         <graphic url="img-cartoline/7694-103F.jpg" width="390px" height="602px"/>
+      </surface>
+      <!-- RETRO -->
+      <surface xml:id="retro_postcard_103" type="retro">
+         <graphic url="img-cartoline/7694-103R.jpg" width="390px" height="602px"/>
+      </surface>
+   </facsimile>
+   <text>
+      <front>
+         <div type="tipografia" part="N" org="uniform" sample="complete">
+            <p rend="writing-mode(vertical-lr) text-orientation(sideways)" part="N">
+               <s> Copyright by A. Noyer 1912 – Allegorie n 177   Reproduction interdite tous pays </s>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="fronte" part="N" org="uniform" sample="complete">
+            <figure>
+               <head>Vers les rives lointaines</head>
+               <figDesc> Statua di donna che guarda il mare
+               </figDesc>
+            </figure>
+         </div>
+         <div type="retro">
+            <div type="message">
+               <opener>
+                  <dateline>
+                     <lb/>
+                     <s>            Ravenna 29-VII-913</s>
+                  </dateline>
+               </opener>
+               <div type="postcard-body">
+                  <p type="retro">
+                     <lb/>            Ricevo ora la tua desidera - <lb/>            ta lettera, e mi dispiace che <lb/>            il mio dono biscottifero <lb/>            abbia prodigato sul vestito <lb/>            tutta l'effusione di chi <lb/>            generosamente regalò. <lb/>            Non dici però l'entità <lb/>            del danno mentre avrei <lb/>            voluto saperlo. Se in tempo saluta la Carolina. <lb/>            Non posso scrivere di  <lb/>            più perchè occupatisfimo. <lb/>            Porta la lettera all'Antonietta <lb/>            Appena possibile scriverò. Addio..cara! <lb/>            A Ravenna niente di nuovo.</p>
+                  <p type="fronte"/>
+               </div>
+               <closer>
+                  <lb/>
+                  <signed>
+                     <persName>
+                        <forename ref="Giuseppe">Giuseppe</forename>
+                     </persName>
+                  </signed>
+               </closer>
+            </div>
+            <div type="address-destination">
+               <p>
+                  <address>
+                     <addrLine>
+                        <lb/>            Signorina<lb/>            Oliva Turtura <lb/>            presso sig. Cibecchini <lb/>            via Cavour 12<lb/>            Aroma <lb/>            (Lago maggiore)</addrLine>
+                  </address>
+               </p>
+            </div>
+            <div type="postmark-postage">
+               <ab/>
+            </div>
+            <div type="secondamano">
+               <ab type="paratext">
+                  <add>
+                     <num type="cardinal"> 103 </num>
+                  </add>
+               </ab>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="linguistic">
+            <ab>
+               <seg lemma="ricevere">
+                  <w type="form">Ricevo</w>
+               </seg>
+               <seg lemma="ora">
+                  <w type="form">ora</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="tuo">
+                  <w type="form">tua</w>
+               </seg>
+               <seg lemma="desiderare">
+                  <w type="form">desidera</w>
+               </seg>
+               <seg lemma="-">
+                  <w type="form">-</w>
+               </seg>
+               <seg lemma="ta">
+                  <w type="form">ta</w>
+               </seg>
+               <seg lemma="lettera">
+                  <w type="form">lettera</w>
+               </seg>
+               <seg lemma=",">
+                  <w type="form">,</w>
+               </seg>
+               <seg lemma="e">
+                  <w type="form">e</w>
+               </seg>
+               <seg lemma="mi">
+                  <w type="form">mi</w>
+               </seg>
+               <seg lemma="dispiacere">
+                  <w type="form">dispiace</w>
+               </seg>
+               <seg lemma="che">
+                  <w type="form">che</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">il</w>
+               </seg>
+               <seg lemma="mio">
+                  <w type="form">mio</w>
+               </seg>
+               <seg lemma="dono">
+                  <w type="form">dono</w>
+               </seg>
+               <seg lemma="biscottifero">
+                  <w type="form">biscottifero</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">abbia</w>
+               </seg>
+               <seg lemma="prodigare">
+                  <w type="form">prodigato</w>
+               </seg>
+               <seg lemma="su">
+                  <w type="form">sul</w>
+               </seg>
+               <seg lemma="vestito">
+                  <w type="form">vestito</w>
+               </seg>
+               <seg lemma="tutto">
+                  <w type="form">tutta</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">l'</w>
+               </seg>
+               <seg lemma="effusione">
+                  <w type="form">effusione</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="chi">
+                  <w type="form">chi</w>
+               </seg>
+               <seg lemma="generoso">
+                  <w type="form">generosamente</w>
+               </seg>
+               <seg lemma="regalare">
+                  <w type="form">regalò</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">Non</w>
+               </seg>
+               <seg lemma="dire">
+                  <w type="form">dici</w>
+               </seg>
+               <seg lemma="però">
+                  <w type="form">però</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">l'</w>
+               </seg>
+               <seg lemma="entità">
+                  <w type="form">entità</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">del</w>
+               </seg>
+               <seg lemma="danno">
+                  <w type="form">danno</w>
+               </seg>
+               <seg lemma="mentre">
+                  <w type="form">mentre</w>
+               </seg>
+               <seg lemma="avere">
+                  <w type="form">avrei</w>
+               </seg>
+               <seg lemma="volere">
+                  <w type="form">voluto</w>
+               </seg>
+               <seg lemma="sapere">
+                  <w type="form">saper-</w>
+               </seg>
+               <seg lemma="lo">
+                  <w type="form">lo</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="se">
+                  <w type="form">Se</w>
+               </seg>
+               <seg lemma="in">
+                  <w type="form">in</w>
+               </seg>
+               <seg lemma="tempo">
+                  <w type="form">tempo</w>
+               </seg>
+               <seg lemma="salutare">
+                  <w type="form">saluta</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="Carolina">
+                  <w type="form">Carolina</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="non">
+                  <w type="form">Non</w>
+               </seg>
+               <seg lemma="potere">
+                  <w type="form">posso</w>
+               </seg>
+               <seg lemma="scrivere">
+                  <w type="form">scrivere</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="più">
+                  <w type="form">più</w>
+               </seg>
+               <seg lemma="perchè">
+                  <w type="form">perchè</w>
+               </seg>
+               <seg lemma="occupatisfimo">
+                  <w type="form">occupatisfimo</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="porta">
+                  <w type="form">Porta</w>
+               </seg>
+               <seg lemma="il">
+                  <w type="form">la</w>
+               </seg>
+               <seg lemma="lettera">
+                  <w type="form">lettera</w>
+               </seg>
+               <seg lemma="al">
+                  <w type="form">all'</w>
+               </seg>
+               <seg lemma="Antonietta">
+                  <w type="form">Antonietta</w>
+               </seg>
+               <seg lemma="appena">
+                  <w type="form">Appena</w>
+               </seg>
+               <seg lemma="possibile">
+                  <w type="form">possibile</w>
+               </seg>
+               <seg lemma="scrivere">
+                  <w type="form">scriverò</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="addio">
+                  <w type="form">Addio</w>
+               </seg>
+               <seg lemma="...">
+                  <w type="form">...</w>
+               </seg>
+               <seg lemma="caro">
+                  <w type="form">cara</w>
+               </seg>
+               <seg lemma="!">
+                  <w type="form">!</w>
+               </seg>
+               <seg lemma="a">
+                  <w type="form">A</w>
+               </seg>
+               <seg lemma="Ravenna">
+                  <w type="form">Ravenna</w>
+               </seg>
+               <seg lemma="niente">
+                  <w type="form">niente</w>
+               </seg>
+               <seg lemma="di">
+                  <w type="form">di</w>
+               </seg>
+               <seg lemma="nuovo">
+                  <w type="form">nuovo</w>
+               </seg>
+               <seg lemma=".">
+                  <w type="form">.</w>
+               </seg>
+               <seg lemma="Giuseppe">
+                  <w type="form">Giuseppe</w>
+               </seg>
+            </ab>
+         </div>
+      </back>
+   </text>
+</TEI>
