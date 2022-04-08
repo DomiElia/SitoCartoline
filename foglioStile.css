@@ -120,6 +120,14 @@
     letter-spacing: 0.5px;
   } 
 
+  a {
+    text-decoration: none;
+  }
+
+  a:visited {
+    color:black;
+  } 
+
   #dialog{
     margin-left: 10%;
   } 
