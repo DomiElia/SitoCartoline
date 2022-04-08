@@ -37,13 +37,9 @@
                               <persName ref="list.xml#AMDG">Angelo Mario Del Grosso</persName>
                         </respStmt>
                         <respStmt>
-                              <resp>Responsabile scientifico:</resp>
+                              <resp>Responsabilità scientifica:</resp>
                               <persName ref="list.xml#GP">Giacomo Paolicchi</persName>
                               <persName ref="list.xml#ES">Enrica Salvatori</persName>
-                        </respStmt>
-                        <respStmt>
-                              <resp>Funzionario responsabile:</resp>
-                              <persName ref="list.xml#MR">Marzia Ratti</persName>
                         </respStmt>
                         <respStmt>
                               <resp>Direttore dei Servizi Culturali:</resp>
