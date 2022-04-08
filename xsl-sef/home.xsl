@@ -14,7 +14,7 @@
      <!--i due titoli-->
      <xsl:result-document href="#title"> 
         <h2><xsl:value-of select="tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:titleStmt/tei:title" /> </h2>
-        <h4> Donazione Borghi - <xsl:value-of select="tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:publisher/tei:orgName" /> </h4>
+        <h4> Donazione Borghi - <a href="http://etnografico.museilaspezia.it/"><xsl:value-of select="tei:teiCorpus/tei:teiHeader/tei:fileDesc/tei:publicationStmt/tei:publisher/tei:orgName" /></a> </h4>
      </xsl:result-document> 
 
      <!--box di tutte le cartoline-->
