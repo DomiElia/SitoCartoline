@@ -245,6 +245,7 @@ p.general{
 }
 
 fieldset{
+  margin: 5%;
   margin-top: 5%;
   text-align: center;
   position: relative;
